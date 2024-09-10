@@ -49,10 +49,6 @@ format:
     theme: cosmo
     number-depth: 1
     reader-mode: true
-  latex:
-    documentclass: scrbook
-  epub:
-    creator: Konsensus Network
 
 
 
