@@ -7,12 +7,15 @@ book:
   author: "James Dale Davidson & Lord William Rees-Mogg"
   translator: Andreas Tank
   date: "9/10/2024"
+  repo-url: https://github.com/konsensusnetwork/TSI_DE
   cover-image: cover.png
   isbn: 978-3-16-123450-0
   license: CC-BY-4.0
   language: de
   original-title: "The Sovereign Individual"
   publisher: Konsensus Network
+  downloads:
+    - epub
   chapters:
     - index.qmd
     - chapters/TSI_DE_CH01.qmd
