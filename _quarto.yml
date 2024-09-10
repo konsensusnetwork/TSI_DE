@@ -7,15 +7,30 @@ book:
   author: "James Dale Davidson & Lord William Rees-Mogg"
   translator: Andreas Tank
   date: "9/10/2024"
-  repo-url: https://github.com/konsensusnetwork/TSI_DE
   cover-image: cover.png
   isbn: 978-3-16-123450-0
   license: CC-BY-4.0
   language: de
+  downloads: epub
   original-title: "The Sovereign Individual"
   publisher: Konsensus Network
-  downloads:
-    - epub
+  navbar:
+    logo: cover.png
+    logo-alt: Cover
+    right:
+      - icon: github
+        href: https://github.com/konsensusnetwork/TSI_DE
+        aria-label: GitHub
+      - icon: shop
+        href: https://bitcoinbook.shop/
+        aria-label: Shop
+  page-footer:
+    center:
+      - text: "License"
+        href: index.qmd
+  open-graph: true
+  twitter-card:
+    site: "@konsensusn"
   chapters:
     - index.qmd
     - chapters/TSI_DE_CH01.qmd
@@ -30,13 +45,11 @@ book:
     - chapters/TSI_DE_CH10.qmd
     - chapters/TSI_DE_CH11.qmd
 
-bibliography: references.bib
-
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrbook
+    number-depth: 1
+    reader-mode: true
   latex:
     documentclass: scrbook
   epub:
