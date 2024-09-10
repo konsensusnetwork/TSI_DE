@@ -1,0 +1,43 @@
+project:
+  type: book
+
+book:
+  title: "Das souveräne Individuum"
+  subtitle: "Der Übergang zum Informationszeitalter"
+  author: "James Dale Davidson & Lord William Rees-Mogg"
+  translator: Andreas Tank
+  date: "9/10/2024"
+  cover-image: cover.png
+  isbn: 978-3-16-123450-0
+  license: CC-BY-4.0
+  language: de
+  original-title: "The Sovereign Individual"
+  publisher: Konsensus Network
+  chapters:
+    - index.qmd
+    - chapters/TSI_DE_CH01.qmd
+    - chapters/TSI_DE_CH02.qmd
+    - chapters/TSI_DE_CH03.qmd
+    - chapters/TSI_DE_CH04.qmd
+    - chapters/TSI_DE_CH05.qmd
+    - chapters/TSI_DE_CH06.qmd
+    - chapters/TSI_DE_CH07.qmd
+    - chapters/TSI_DE_CH08.qmd
+    - chapters/TSI_DE_CH09.qmd
+    - chapters/TSI_DE_CH10.qmd
+    - chapters/TSI_DE_CH11.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrbook
+  latex:
+    documentclass: scrbook
+  epub:
+    creator: Konsensus Network
+
+
+
