@@ -50,7 +50,15 @@ format:
     number-depth: 1
     reader-mode: true
   latex:
-    documentclass: scrbook
+    documentclass: memoir
+    classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes
+    papersize: a5
+    secnumdepth: 1
+    geometry:
+      - top=18mm
+      - bottom=28mm
+      - left=18mm
+      - right=18mm
   epub:
     creator: Konsensus Network
 
