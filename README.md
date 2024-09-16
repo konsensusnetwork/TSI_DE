@@ -14,3 +14,7 @@
 - Interpunction: English style vs German
 - Fluency, fluency, fluency...
 - Consistency of word choices
+
+### Practical
+
+- Make changes to the .qmd files inside the /chapters folder.
