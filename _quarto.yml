@@ -1,32 +1,67 @@
 project:
   type: book
+  preview:
+    port: 4200
+    browser: false
 
 book:
   title: "Das souveräne Individuum"
   subtitle: "Der Übergang zum Informationszeitalter"
+  description: "In Das Souveräne Individuum erforschen Davidson und Rees-Mogg den größten wirtschaftlichen und politischen Wandel seit Jahrhunderten - den Übergang von einer Industrie- zu einer Informationsgesellschaft. Dieser Übergang, den sie als „die vierte Stufe der menschlichen Gesellschaft“ bezeichnen, wird das Individuum wie nie zuvor befreien und die Macht der Regierungen unwiderruflich verändern. Dieses herausragende Buch wird falsche Hoffnungen und Fiktionen durch ein neues Verständnis und aufgeklärte Werte ersetzen."
   author: "James Dale Davidson & Lord William Rees-Mogg"
   translator: Andreas Tank
   date: "9/10/2024"
+  image: cover.png
+  image-alt: "Das souveräne Individuum"
   cover-image: cover.png
   isbn: 978-3-16-123450-0
   license: CC-BY-4.0
   language: de
   original-title: "The Sovereign Individual"
   publisher: Konsensus Network
+  original-publisher: Simon and Schuster
+  favicon: /figures/freestarfish.png
+  repo-url: https://github.com/konsensusnetwork/TSI_DE
+  repo-actions: [edit, source]
+  search:
+    location: navbar
+    type: overlay
+  sidebar:
+    style: floating
+    border: true
   navbar:
-    logo: cover.png
-    logo-alt: Cover
-    right:
-      - icon: github
-        href: https://github.com/konsensusnetwork/TSI_DE
-        aria-label: GitHub
+    left:
+      - icon: book
+        text: "Read online"
+        href: index.qmd
+        aria-label: Book
       - icon: shop
-        href: https://bitcoinbook.shop/
+        text: "Get the paperback in Presale!"
+        href: https://bitcoinbook.shop/products/das-souverane-individuum
         aria-label: Shop
   page-footer:
+    left:
+      - text: "© 2024 Konsensus Network"
     center:
       - text: "License"
         href: index.qmd
+      - text: "About the publisher"
+        href: publisher.qmd
+      - text: "Presale"
+        href: presale.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/konsensusn
+        aria-label: Twitter
+      - icon: github
+        href: https://github.com/konsensusnetwork
+        aria-label: Github
+      - icon: linkedin
+        href: https://www.linkedin.com/konsensusnetwork
+        aria-label: LinkedIn
+      - icon: youtube
+        href: https://www.youtube.com/konsensusnetwork
+        aria-label: YouTube
   open-graph: true
   twitter-card:
     site: "@konsensusn"
@@ -46,21 +81,20 @@ book:
 
 format:
   html:
-    theme: cosmo
-    number-depth: 1
-    reader-mode: true
+    theme:
+      light: [flatly, theme-light.scss]
+      dark: [flatly, theme-dark.scss]
+    number-depth: 2
+    toc-location: left
+    reference-location: margin
+    grid:
+      sidebar-width: 400px
   latex:
     documentclass: memoir
-    classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes
-    papersize: a5
-    secnumdepth: 1
-    geometry:
-      - top=18mm
-      - bottom=28mm
-      - left=18mm
-      - right=18mm
-    epub:
-      creator: Konsensus Network
+    classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes,hidelinks
+    include-in-header: preamble.tex
+  epub:
+    creator: Konsensus Network
 
 
 

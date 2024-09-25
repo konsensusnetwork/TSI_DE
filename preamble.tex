@@ -1,0 +1,242 @@
+% CUSTOM STUFF INSERTED HERE
+% PACKAGE DEFINITION
+\usepackage{tcolorbox}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{float}
+
+% typographical packages
+\usepackage{microtype} % for micro-typographical adjustments
+\usepackage{setspace} % for line spacing
+
+\tolerance=1000
+\hyphenpenalty=1000
+
+\usepackage[ngerman]{babel}	% language
+\selectlanguage{german}
+
+\usepackage{multicol}
+\usepackage{times}
+
+\usepackage{graphicx}
+\graphicspath{{./}{./figures/}}
+
+\usepackage{lettrine}
+\setcounter{DefaultLines}{3}
+\renewcommand{\DefaultLoversize}{0.1}
+\renewcommand{\DefaultLraise}{0}
+\renewcommand{\LettrineTextFont}{}
+\setlength{\DefaultFindent}{\fontdimen2\font}
+\setlength{\DefaultNindent}{0em}
+
+
+\usepackage{fancyhdr}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{import}
+\usepackage{enumitem}
+\usepackage[footskip=8mm]{geometry}
+
+\newcommand{\ISBNHC}{978-}
+\newcommand{\ISBNSC}{978-}
+\newcommand{\ISBNEBOOK}{978-}
+\newcommand{\ISBNAUDIO}{978-}
+
+\newcommand{\press}{Konsensus Network}
+
+\newcommand{\translatorone}{Andreas Tank}
+
+\newcommand{\translators}{
+\textbf{Ubersetzung:}\\
+\translatorone\\
+}
+
+
+%captions in tables and figures
+\usepackage{caption}
+
+\usepackage[style=latin, latin=americanquotes]{csquotes}
+
+\usepackage{calc}
+\usepackage{hologo}
+
+\makeatletter
+\renewcommand\listoftables{%
+        \@starttoc{lot}%
+}
+\makeatother
+\makeatletter
+\renewcommand\listoffigures{%
+        \@starttoc{lof}%
+}
+\makeatother
+
+
+% PHYSICAL DOCUMENT SETUP
+% media settings: bulk
+\setstocksize{210mm}{148mm}
+\settrimmedsize{210mm}{148mm}{*}
+\setbinding{7mm}
+\setlrmarginsandblock{10mm}{15mm}{*}
+\setulmarginsandblock{17.5mm}{18mm}{*}
+
+% custom second title page
+\makeatletter
+\newcommand*\halftitlepage{\begingroup % Misericords, T&H p 153
+  \setlength\drop{0.1\textheight}
+  \begin{center}
+  \vspace*{\drop}
+  \rule{\textwidth}{0in}\par
+  {\Large\textsc\thetitle\par}
+  \rule{\textwidth}{0in}\par
+  \vfill
+  \end{center}
+\endgroup}
+\makeatother
+
+% custom title page
+\thispagestyle{empty}
+\makeatletter
+\newlength\drop
+\newcommand*\titleM{\begingroup % Misericords, T&H p 153
+  \setlength\drop{0.15\textheight}
+  \begin{center}
+  \vspace*{\drop}
+  \rule{\textwidth}{0in}\par
+  {\huge\textsc\thetitle\par}
+  \vspace{2em}
+  {\large\textit{\subtitle}\par}
+  \vspace{2em}
+  \rule{5.5cm}{0.3mm}\par
+  \vspace{2em}
+  {\Large\textit\theauthor\par}
+  \vspace{3em}
+  {\footnotesize\textit\translators\par}
+  \vfill
+  \includegraphics[width=3.5cm]{figures/knw.png}\par
+  \end{center}
+\endgroup}
+\makeatother
+    
+
+% HEADER AND FOOTER MANIPULATION
+% for normal pages
+\nouppercaseheads
+\headsep = 4mm
+
+\makepagestyle{mystyle} 
+\makeevenhead{mystyle}{\footnotesize\thepage}{\tiny\MakeUppercase{Das souveräne Individuum}}{}
+\makeoddhead{mystyle}{\tiny\leftmark}{}{\footnotesize\thepage}
+\makeevenfoot{mystyle}{}{}{}
+\makeoddfoot{mystyle}{}{}{}
+\makeatletter
+
+% for pages where chapters begin
+\makepagestyle{plain}
+\makerunningwidth{plain}{\headwidth}
+\makeevenfoot{plain}{}{{\footnotesize\thepage}}{}
+\makeoddfoot{plain}{}{{\footnotesize\thepage}}{}
+% END HEADER AND FOOTER MANIPULATION
+\pagestyle{mystyle}
+
+% table of contents customisation
+\usepackage[]{tocloft}
+\renewcommand{\cftsectiondotsep}{\cftnodots}
+\renewcommand{\cftpartfont}{\Large\bfseries\MakeUppercase}
+\renewcommand{\cftsectionfont}{\tiny}
+
+\renewcommand{\cftchapterpresnum}{KAPITEL~}
+\renewcommand{\cftchapternumwidth}{6em}
+\setlength{\cftsectionindent}{2em}
+\setsecnumdepth{chapter}
+
+
+% Redefine footnote presentation
+\makeatletter
+\renewcommand\@makefntext[1]{%
+  \noindent\hb@xt@2em{% <-- Box of fixed size for footnote number and space
+    \@thefnmark\quad}% <-- Footnote number followed by a quad space
+  \parbox[t]{\dimexpr\linewidth-2em}{#1}% <-- Parbox to control the width of footnote content
+}
+\makeatother
+
+% layout check and fix
+\checkandfixthelayout
+
+\usepackage{fontspec}
+\setmainfont{EB Garamond}
+
+% typographical settings for the body text
+\setlength{\parskip}{0em}
+\setlength{\parindent}{1em}
+\linespread{1.10}
+
+% don't reset footnotes every chapter
+\usepackage{chngcntr}
+\counterwithout*{footnote}{chapter}
+
+
+% titlesec
+\usepackage{titlesec}
+% formatting titles
+\titleformat
+    {\chapter}
+    [display]
+    {\huge\centering\bfseries}
+    {\Large\centering\mdseries\chaptertitlename~~\thechapter}
+    {0pt}
+    {\vspace{28pt}}
+
+\titleformat{\section}[block]{\bfseries\large}{}{0pt}{\centering}[]
+\titleformat{\subsection}[block]{\itshape}{}{0pt}{\centering}[]
+\titlespacing*{\section}{0pt}{2em}{0.5em}
+
+% Formatting the index
+\usepackage{imakeidx}
+\makeindex[title=Index,columns=2,options={-s indexstyle.ist}]
+\indexsetup{othercode=\scriptsize} % index font size
+
+
+
+% Widows etc
+\widowpenalty = 10000
+\clubpenalty = 10000
+
+\usepackage[all]{nowidow}
+\setlength{\parfillskip}{0pt plus\dimexpr\textwidth-2\parindent}
+
+
+
+% Enviroment for blockquotes
+\usepackage{mdframed}
+% Redefine the blockquote environment
+\newmdenv[
+  leftline=true,
+  rightline=false,
+  topline=false,
+  bottomline=false,
+  linewidth=1.30pt,
+  innerleftmargin=1em,
+  innerrightmargin=0em,
+  innertopmargin=0pt,
+  innerbottommargin=0pt,
+  skipabove=\baselineskip,
+  skipbelow=\baselineskip
+]{blockquotebox}
+
+% Footnotes in blockquoteboxes
+\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
+
+% Replacements for pandoc conversion
+% TURN OFF FOR OVERLEAF / PDF
+% \renewcommand{\footautocite}[1]{\footnote{\cite{#1}}}
+% \renewenvironment{blockquotebox}{%
+%     \begin{quote}%
+% }{%
+%     \end{quote}%
+% }
+% \renewcommand{\autocite}[1]{\footnote{\cite{#1}}}
+
+% layout check and fix
+\checkandfixthelayout
