@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+// Base document colors
+$link-color: #d4753e;
+$navbar-bg: #c55c07;
+$body-bg: #181818;
+$body-color: white;
+$headings-color: white;
+
+// Block quotes
+blockquote {
+    font-style: italic;
+}
+
+.blockquote {
+    margin-bottom: 2em;
+}
