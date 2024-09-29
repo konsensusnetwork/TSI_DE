@@ -6,6 +6,7 @@ project:
 
 book:
   title: "Das souveräne Individuum"
+  output-file: main
   subtitle: "Der Übergang zum Informationszeitalter"
   description: "In Das Souveräne Individuum erforschen Davidson und Rees-Mogg den größten wirtschaftlichen und politischen Wandel seit Jahrhunderten - den Übergang von einer Industrie- zu einer Informationsgesellschaft. Dieser Übergang, den sie als „die vierte Stufe der menschlichen Gesellschaft“ bezeichnen, wird das Individuum wie nie zuvor befreien und die Macht der Regierungen unwiderruflich verändern. Dieses herausragende Buch wird falsche Hoffnungen und Fiktionen durch ein neues Verständnis und aufgeklärte Werte ersetzen."
   author: "James Dale Davidson & Lord William Rees-Mogg"
@@ -78,24 +79,29 @@ book:
     - chapters/TSI_DE_CH09.qmd
     - chapters/TSI_DE_CH10.qmd
     - chapters/TSI_DE_CH11.qmd
+  
 
 format:
   html:
-    theme:
-      light: [flatly, theme-light.scss]
-      dark: [flatly, theme-dark.scss]
+    lang: de
+    theme: default
     number-depth: 2
-    toc-location: left
-    reference-location: margin
-    grid:
-      sidebar-width: 400px
-  latex:
+  pdf:
+    lang: de
     documentclass: memoir
     classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes,hidelinks
-    include-in-header: preamble.tex
+    papersize: a5
+    toc-depth: 1
+    toc-title: Inhalt
+    keep-tex: true
+    colorlinks: false
+    include-in-header:
+      - preamble.tex
   epub:
     creator: Konsensus Network
-
+    toc-depth: 1
+    toc-title: Inhalt
+    lang: "de-DE"
 
 
 

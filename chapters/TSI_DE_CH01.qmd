@@ -1,6 +1,6 @@
 # DER ÜBERGANG IN DAS JAHR 2000
 
-„Es fühlt sich an, als stünde etwas Großes bevor: Diagramme visualisieren das jährliche Bevölkerungswachstum, die Konzentration von Kohlendioxid in der Atmosphäre, die Anzahl der Webadressen und die Megabyte pro Dollar. Alle diese Faktoren zeigen eine steil ansteigende Kurve, die kurz nach dem Jahrhundertwechsel in eine Asymptote übergeht: die Singularität. Das Ende von allem, was wir kennen. Und der Anfang von etwas, das wir möglicherweise nie vollständig begreifen werden."[^1] - Danny Hillis
+> „Es fühlt sich an, als stünde etwas Großes bevor: Diagramme visualisieren das jährliche Bevölkerungswachstum, die Konzentration von Kohlendioxid in der Atmosphäre, die Anzahl der Webadressen und die Megabyte pro Dollar. Alle diese Faktoren zeigen eine steil ansteigende Kurve, die kurz nach dem Jahrhundertwechsel in eine Asymptote übergeht: die Singularität. Das Ende von allem, was wir kennen. Und der Anfang von etwas, das wir möglicherweise nie vollständig begreifen werden."[^1] - Danny Hillis
 
 ## VORAHNUNGEN
 
