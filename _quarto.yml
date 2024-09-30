@@ -89,7 +89,7 @@ format:
   pdf:
     lang: de
     documentclass: memoir
-    classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes,hidelinks
+    classoption: smalldemyvopaper,10pt,twoside,onecolumn,openright,extrafontsizes,hidelinks
     papersize: a5
     toc-depth: 1
     toc-title: Inhalt
