@@ -1,5 +1,4 @@
 .quarto
 /.quarto/
 /site_libs
-_book
 build
