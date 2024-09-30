@@ -23,7 +23,7 @@ book:
   repo-url: https://github.com/konsensusnetwork/TSI_DE
   repo-actions: [edit, source]
   search:
-    location: navbar
+    location: sidebar
     type: overlay
   sidebar:
     style: floating
@@ -83,14 +83,14 @@ format:
   html:
     lang: de
     theme:
-      light: [lux, theme.scss, theme-light.scss]
-      dark: [lux, theme.scss, theme-dark.scss]
+      light: [flatly, theme.scss, theme-light.scss]
+      dark: [flatly, theme.scss, theme-dark.scss]
     number-depth: 2
     grid:
       sidebar-width: 500px
       body-width: 900px
       margin-width: 350px
-      gutter-width: 4em
+      gutter-width: 1em
     toc: true
     toc-location: left
     reference-location: margin

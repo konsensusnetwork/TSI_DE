@@ -1,4 +1,14 @@
 /*-- scss:defaults --*/
 // Base document colors
-$link-color: #75AADB;
-$navbar-bg: #000;
+$link-color: #9fc0df;
+$link-color-hover: #97c5f1;
+$navbar-bg: #061a2c;
+$subtitle-color: #575656;
+
+.nav-page-text {
+    color: #272626 !important;
+}
+
+.nav-page-next {
+    border: #5c5b5b;
+}

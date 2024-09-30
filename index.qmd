@@ -22,6 +22,7 @@ format:
       sidebar-width: 0px
       body-width: 1400px
       gutter-width: 25px
+    toc: false
 ---
 
 ::: {.content-hidden when-format="pdf"}

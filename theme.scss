@@ -9,6 +9,81 @@ blockquote {
     margin-bottom: 2em;
 }
 
+.about-entity {
+    padding-left: 1em;
+}
+
+.quarto-title-meta {
+    display: flex !important;
+    flex-direction: column;
+}
+
+.about-link {
+    font-size: 1rem !important;
+    border-radius: 0.5em !important;
+    padding: 0.5em !important;
+    background-color: $navbar-bg;
+
+    &:hover {
+        background-color: $link-color-hover;
+    }
+}
+
+.about-link {
+    color: $link-color !important;
+    font-weight: bold;
+
+    &:hover {
+        color: $navbar-bg !important
+    }
+}
+
+.navbar {
+    text-transform: none !important;
+    padding-block: 0.5em !important;
+}
+
+.nav-page {
+    padding-block: 0.1rem !important;
+    padding-inline: 0rem !important;
+    font-size: 0.8rem !important;
+}
+
 .nav-page-previous {
     visibility: hidden;
+    width: 0px;
+}
+
+.nav-page-texts {
+    font-size: 0.8rem !important;
+}
+.nav-page-next {
+    border-style: solid;
+    border-radius: 1em;
+    border-width: 1px;
+    min-width: fit-content  !important;
+    padding-inline: 1em !important;
+
+    &:hover {
+        background-color: $link-color-hover;
+    }
+}
+
+#quarto-content {
+    margin-bottom: 2em;
+}
+
+.about-image {
+    margin-top: 1.5em;
+}
+
+.subtitle.lead {
+    color: $subtitle-color;
+    font-style: italic;
+    font-size: 0.9rem;
+    margin-bottom: 2em;
+}
+
+.quarto-title-meta-heading {
+    font-weight: bold !important;
 }
