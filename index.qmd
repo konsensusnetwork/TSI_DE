@@ -1,7 +1,35 @@
-# Preface {.unnumbered}
+---
+about:
+  template: trestles
+  image: cover.png
+  links:
+    - icon: shop
+      href: https://bitcoinbook.shop
+      text: "Shop" 
+      aria-label: "Online bookstore"
+    - icon: amazon
+      href: https://amazon.com
+      text: "Amazon"
+      aria-label: "Amazon"                 
+navbar: true
+sidebar: false
+page-layout: full
+cover-image: false
+format:
+  html:
+    grid:
+      margin-width: 0px
+      sidebar-width: 0px
+      body-width: 1400px
+      gutter-width: 25px
+---
 
-Die zwei renommierten Anlageberater und Autoren des Bestsellers „The Great Reckoning“ beleuchten angesichts des radikalen Wandels in der Menschheitsgeschichte sowohl Katastropheneinflüsse als auch das Potenzial für Wohlstand und Erneuerung. Das Souveräne Individuum zeigt Strategien auf, die notwendig sind, um sich finanziell auf die nächste Phase der westlichen Zivilisation einzustellen.
+::: {.content-hidden when-format="pdf"}
+# About this book {.unnumbered}
+
+Die zwei renommierten Anlageberater und Autoren des Bestsellers *The Great Reckoning* beleuchten angesichts des radikalen Wandels in der Menschheitsgeschichte sowohl Katastropheneinflüsse als auch das Potenzial für Wohlstand und Erneuerung. Das Souveräne Individuum zeigt Strategien auf, die notwendig sind, um sich finanziell auf die nächste Phase der westlichen Zivilisation einzustellen.
 
 Nur wenige Beobachter des späten zwanzigsten Jahrhunderts hatten ihre Finger so vorausschauend am Puls der globalen politischen und wirtschaftlichen Neuordnung, die das neue Jahrtausend einläutete, wie James Dale Davidson und Lord William Rees-Mogg. Ihre wagemutige Vorhersage einer Katastrophe an der Wall Street in Blood in the Streets bestätigte sich am Schwarzen Dienstag. In ihrem darauf folgenden Bestseller The Great Reckoning, der nur wenige Wochen vor dem Putschversuch gegen Gorbatschow veröffentlicht wurde, analysierten sie den bevorstehenden Zusammenbruch der Sowjetunion und sagten den Bürgerkrieg in Jugoslawien und andere Ereignisse voraus, die sich als einige der erschütterndsten Entwicklungen der letzten Jahre erwiesen haben.
 
 In Das Souveräne Individuum erforschen Davidson und Rees-Mogg den größten wirtschaftlichen und politischen Wandel seit Jahrhunderten - den Übergang von einer Industrie- zu einer Informationsgesellschaft. Dieser Übergang, den sie als „die vierte Stufe der menschlichen Gesellschaft“ bezeichnen, wird das Individuum wie nie zuvor befreien und die Macht der Regierungen unwiderruflich verändern. Dieses herausragende Buch wird falsche Hoffnungen und Fiktionen durch ein neues Verständnis und aufgeklärte Werte ersetzen.
+:::
