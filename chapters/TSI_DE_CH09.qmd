@@ -11,46 +11,23 @@ Das Problem mit dieser vernünftigen Erwartung besteht darin, dass die gesamte b
 Ganz im Gegenteil. Tatsächlich ist dies aus Gründen, die wir in *The Great Reckoning* untersucht haben, praktisch ausgeschlossen. Wir rechnen damit, dass das Informationszeitalter zu Verwerfungen führt - zu deutlichen Brüchen mit den Institutionen und dem Bewusstsein der Vergangenheit. Folgendes wird man beobachten können, während dieser Prozess vonstattengeht:
 
 1.  Veränderungen in der Wirtschaftsorganisation auf eine Art, wie sie in den vorhergehenden Kapiteln aufgrund der Auswirkungen der Mikroverarbeitung beschrieben wurden.
-
 2.  Ein mehr oder weniger rascher Rückgang der Bedeutung aller Organisationen, die innerhalb und nicht über geografische Grenzen hinweg agieren. Regierungen, Gewerkschaften, lizenzierte Berufe und Lobbyisten werden im Informationszeitalter weniger wichtig sein, als sie es im Industriezeitalter waren. Da Vetternwirtschaft und Handelsbeschränkungen von Regierungen weniger nützlich sein werden, werden weniger Ressourcen für Lobbyarbeit verschwendet.[^309]
-
 3.  Die weitläufige Anerkennung, dass der Nationalstaat veraltet ist, führt zu weit verbreiteten Sezessionsbewegungen in vielen Teilen der Welt.
-
 4.  Ein Rückgang des Status und der Macht traditioneller Eliten sowie ein Rückgang des Respekts gegenüber den Symbolen und Glaubenssätzen, die den Nationalstaat rechtfertigen.
-
 5.  Eine intensive und sogar gewalttätige nationalistische Reaktion ist vor allem unter jenen Personen zu beobachten, die ihren Status, ihr Einkommen und ihre Macht verlieren, wenn das, was sie als ihr „normales Leben“ betrachten, durch politische Dezentralisierung und neue Marktvereinbarungen gestört wird. Zu Merkmalen dieser Reaktion gehören:
-
-```{=html}
-<!-- -->
-```
-a.  Misstrauen gegenüber und Widerstand gegen Globalisierung, Freihandel, „ausländisches“ Eigentum und Eindringen in die lokale Wirtschaft;
-b.  Feindseligkeit gegenüber Einwanderung, insbesondere von Gruppen, die sich sichtbar von der bisherigen nationalen Gruppe unterscheiden;
-c.  Weitverbreiteter Hass auf die Informationselite, die Reichen und die gut Ausgebildeten sowie Klagen über Kapitalflucht und verschwindende Arbeitsplätze;
-d.  Extreme Maßnahmen von Nationalisten, die die Sezession von Individuen und Regionen von geschwächten Nationalstaaten verhindern wollen, einschließlich des Rückgriffs auf Kriege und „ethnische Säuberungen“, die die nationalistische Identifikation mit dem Staat verstärken und die Ansprüche des Staates auf Menschen und ihre Ressourcen rationalisieren.
-
-```{=html}
-<!-- -->
-```
+    a) Misstrauen gegenüber und Widerstand gegen Globalisierung, Freihandel, „ausländisches“ Eigentum und Eindringen in die lokale Wirtschaft;
+    b) Feindseligkeit gegenüber Einwanderung, insbesondere von Gruppen, die sich sichtbar von der bisherigen nationalen Gruppe unterscheiden;
+    c) Weitverbreiteter Hass auf die Informationselite, die Reichen und die gut Ausgebildeten sowie Klagen über Kapitalflucht und verschwindende Arbeitsplätze;
+    d) Extreme Maßnahmen von Nationalisten, die die Sezession von Individuen und Regionen von geschwächten Nationalstaaten verhindern wollen, einschließlich des Rückgriffs auf Kriege und „ethnische Säuberungen“, die die nationalistische Identifikation mit dem Staat verstärken und die Ansprüche des Staates auf Menschen und ihre Ressourcen rationalisieren.
 6.  Da es offensichtlich sein wird, dass Informationstechnologien es souveränen Individuen erleichtern, der Staatsgewalt zu entfliehen, wird die Reaktion auf den Zusammenbruch von organisiertem Zwang auch einen neo-luddistischen Angriff auf diese neuen Technologien und diejenigen, die sie nutzen, beinhalten.
-
 7.  Die nationalistisch-luddistische Reaktion wird nicht in allen Regionen und Bevölkerungsgruppen gleich sein:
-
-```{=html}
-<!-- -->
-```
-a.  Die Reaktion wird in schnell wachsenden Volkswirtschaften, in denen das Pro-Kopf-Einkommen während des Industriezeitalters niedrig war und in denen die Vertiefung der Märkte die Einkommen aller Qualifikationsgruppen anhebt, weniger stark sein.
-b.  Die reaktionären Tendenzen werden in den derzeit reichen Ländern am stärksten zu spüren sein, insbesondere in Gemeinschaften mit einem hohen Anteil an wert- und qualifikationsarmen Menschen, die früher ein hohes Einkommen genossen haben.[^425]
-c.  Vom Unabomber einmal abgesehen, werden die Neo-Ludditen die meisten ihrer Anhänger unter den Menschen in den unteren zwei Dritteln der Einkommenskapazität in den führenden Nationalstaaten finden.
-d.  Die nationalistische und luddistische Reaktion wird jedoch nicht unter den Ärmsten am stärksten sein, sondern unter den mittelmäßig qualifizierten Personen, den Durchschnittlichen mit Abschlusszeugnissen, die während des Industriezeitalters erwachsen wurden und nun mit einer Abwärtsmobilität konfrontiert sind.
-
-```{=html}
-<!-- -->
-```
+    a)  Die Reaktion wird in schnell wachsenden Volkswirtschaften, in denen das Pro-Kopf-Einkommen während des Industriezeitalters niedrig war und in denen die Vertiefung der Märkte die Einkommen aller Qualifikationsgruppen anhebt, weniger stark sein.
+    b)  Die reaktionären Tendenzen werden in den derzeit reichen Ländern am stärksten zu spüren sein, insbesondere in Gemeinschaften mit einem hohen Anteil an wert- und qualifikationsarmen Menschen, die früher ein hohes Einkommen genossen haben.[^425]
+    c)  Vom Unabomber einmal abgesehen, werden die Neo-Ludditen die meisten ihrer Anhänger unter den Menschen in den unteren zwei Dritteln der Einkommenskapazität in den führenden Nationalstaaten finden.
+    d)  Die nationalistische und luddistische Reaktion wird jedoch nicht unter den Ärmsten am stärksten sein, sondern unter den mittelmäßig qualifizierten Personen, den Durchschnittlichen mit Abschlusszeugnissen, die während des Industriezeitalters erwachsen wurden und nun mit einer Abwärtsmobilität konfrontiert sind.
 8.  Da neue megapolitische Bedingungen zusammen mit neuen, zusätzlichen Ideologien und Moralvorstellungen zu einem neuen Bewusstsein für Identität führen, werden die alten Bedingungen des Nationalismus ihren Reiz verlieren.
-
 9.  Die nationalistische Reaktion wird in den ersten Jahrzehnten des neuen Jahrtausends ihren Höhepunkt erreichen und dann verblassen, wenn sich die Effizienz fragmentierter Souveränitäten, als überlegen gegenüber der gebündelten Macht des Nationalstaates erweist. Wir vermuten, dass das angeborene Mobbing durch Nationalstaaten gegen alternative Gerichtsbarkeiten, veranschaulicht durch die russische Invasion in Tschetschenien, dazu neigen wird, Nationen und nationalistischen Fanatikern die Sympathie der neuen Generationen zu entziehen, die unter den megapolitischen Bedingungen des Informationszeitalters zur Reife kommen.
-
-10. Der Nationalstaat wird letztendlich in einer Finanzkrise zusammenbrechen. Systemische Krisen entstehen typischerweise, wenn scheiternde Institutionen mit steigenden Ausgaben und fallenden Einnahmen konfrontiert sind - eine Situation, die die führenden Nationalstaaten wahrscheinlich treffen wird, wenn Rentenleistungen und medizinische Ausgaben Anfang des einundzwanzigsten Jahrhunderts stark ansteigen. Während wir dies schreiben, sind sowohl das Vereinigte Königreich als auch die Vereinigten Staaten mit mehreren Billionen durch ungedeckte Pensionsverpflichtungen belastet (auf der Pro-Kopf-Ebene sieht es ähnlich aus), die höchstwahrscheinlich keines der beiden Länder in den Griff bekommen wird. Andere führende Nationalstaaten stehen vor ähnlich ruinösen Belastungen.
+10.  Der Nationalstaat wird letztendlich in einer Finanzkrise zusammenbrechen. Systemische Krisen entstehen typischerweise, wenn scheiternde Institutionen mit steigenden Ausgaben und fallenden Einnahmen konfrontiert sind - eine Situation, die die führenden Nationalstaaten wahrscheinlich treffen wird, wenn Rentenleistungen und medizinische Ausgaben Anfang des einundzwanzigsten Jahrhunderts stark ansteigen. Während wir dies schreiben, sind sowohl das Vereinigte Königreich als auch die Vereinigten Staaten mit mehreren Billionen durch ungedeckte Pensionsverpflichtungen belastet (auf der Pro-Kopf-Ebene sieht es ähnlich aus), die höchstwahrscheinlich keines der beiden Länder in den Griff bekommen wird. Andere führende Nationalstaaten stehen vor ähnlich ruinösen Belastungen.
 
 ## PARALLELEN ZUR RENAISSANCE
 
@@ -372,7 +349,7 @@ Diese Kritik an der Informationselite deutet auf die Bedingungen einer populäre
 
 Da der Preis, der für den Schutz gezahlt wird, „dem Prinzip der Substitution“ unterliegt, wird dies die Mathematik des Zwangs offenlegen und den Konflikt zwischen der neuen kosmopolitischen Elite des Informationszeitalters und den „Informationsarmen“, dem Rest der Bevölkerung, der größtenteils einsprachig ist und keine herausragenden Problemlösungsfähigkeiten oder global vermarktbare Fähigkeiten besitzt, verschärfen. Diese „Verlierer“ oder „Zurückgebliebenen“, wie Thomas L. Friedman sie beschreibt, werden zweifellos weiterhin ihr Wohlergehen mit dem politischen Leben bestehender Nationalstaaten identifizieren.[^385]
 
-## Die meisten politischen Agenden werden reaktionär sein
+## DIE MEISTEN POLITISCHEN AGENDEN WERDEN REAKTIONÄR SEIN
 
 Die meisten von denen, die eine leidenschaftliche politische Agenda verfolgen, ob sie nun nationalistisch, ökologisch oder sozialistisch sind, werden sich dafür einsetzen, den wankenden Nationalstaat zu verteidigen, während das 21. Jahrhundert beginnt. Im Laufe der Zeit wird es immer offensichtlicher, dass das Überleben des Nationalstaats und das nationalistische Empfinden Voraussetzungen sind, um einen Raum für politischen Zwang zu bewahren. Wie Billig feststellt, ist Nationalismus „die Bedingung für konventionelle (politische) Strategien, unabhängig von der konkreten Politik.“ [^386] Daher wird der nationalistische Inhalt in allen politischen Programmen in den kommenden Jahren zunehmen wie der Bauch eines Vielfraßes. Umweltschützer zum Beispiel werden sich weniger auf den Schutz von „Mutter Erde“ und mehr auf den Schutz des „Heimatlandes“ konzentrieren. Aus Gründen, die wir später erläutern, werden die Nation und die Staatsbürgerschaft besonders jenen heilig sein, die Gleichheit besonders schätzen. Mehr als sie vielleicht jetzt verstehen, werden sie mit Christopher Lasch übereinstimmen, der Hannah Arendt folgte, als er verkündete: „Es ist die Staatsbürgerschaft, die Gleichheit gewährt, nicht die Gleichheit, die das Recht auf Staatsbürgerschaft schafft.“ [^387]
 
@@ -417,7 +394,7 @@ Man braucht sich nicht allzu sehr anstrengen, um sich vorzustellen, dass die Inf
 
 Ebenso wird dies jedes Mal, wenn ein Nationalstaat auseinanderbricht, zu einer weiteren Machtverlagerung führen und die Autonomie souveräner Individuen fördern. Wir erwarten eine erhebliche Vervielfachung souveräner Einheiten, da aus den Trümmern der Nationen eine Vielzahl von Enklaven und Gerichtsbarkeiten entstehen, die eher mit Stadtstaaten vergleichbar sind. Zu diesen neuen Einrichtungen werden viele gehören, die wettbewerbsfähige Preise für Schutzdienstleistungen anbieten und niedrige oder gar keine Steuern auf Einkommen und Kapital erheben. Es ist fast sicher, dass diese neuen Einheiten ihre Schutzdienste attraktiver anbieten als die führenden OECD-Nationen. Betrachtet man dies einfach als Marktsegmentierung, ist der Bereich des Marktes, der am schlechtesten bedient wird, das höchsteffiziente, kostengünstige Segment. Wer hohe Steuern in Austausch für ein kompliziertes Angebot an staatlichen Ausgaben zahlen möchte, hat dazu reichlich Gelegenheit. Daher ist die vorteilhafteste und profitabelste Strategie für eine neue Minisouveränität fast sicher ein höchsteffizientes, kostengünstiges Alternativangebot. Eine solche Minisouveränität könnte nur mit großer Mühe ein breiteres Angebot an Dienstleistungen bereitstellen als die überlebenden Nationalstaaten. Da nicht alle Nationalstaaten gleichzeitig zusammenbrechen werden, wird das staatliche Angebot gerade in der Anfangszeit der Übergangsphase wahrscheinlich gut versorgt sein. Andererseits kann ein günstiges Regime von erträglicher Ordnung relativ kostengünstig bereitgestellt werden. Wenn soziale Unruhen und Kriminalität in den alten Industrieländern in dem Maße zunehmen, wie wir es erwarten, wird ein erträglicher Zustand von Recht und Ordnung in einer Rechtsordnung attraktiver sein als ein nationales Raumfahrtprogramm, ein staatlich gefördertes Frauenmuseum oder subventionierte Umschulungsprogramme für entlassene Führungskräfte.
 
-## Die Entnationalisierung des Individuums
+## DIE ENTNATIONALISIERUNG DES INDIVIDUUMS
 
 Die Staatsbürgerschaft wird in dem Maße unattraktiver und weniger haltbar, wie neue Institutionen entstehen, die die Wahlmöglichkeiten bei den Dienstleistungen erleichtern, für die der Staat jetzt zuständig ist, angefangen beim Schutz. Dadurch wird es für Individuen praktisch, aufzuhören, sich mit nationalen Begrifflichkeiten zu identifizieren. Dennoch wird der Demystifizierungsprozess der Staatsbürgerschaft ein langsamer sein. Sie werden ständig einer Flut von banalen Botschaften ausgesetzt, die in den Routinen des täglichen Lebens darauf ausgelegt sind, Ihre Identifikation mit Ihrem heimischen Nationalstaat zu verstärken. Diese Botschaften machen es für Sie sehr unwahrscheinlich, Ihre Nationalität zu „vergessen“. Für viele Leute ist die Nationalität ein entscheidendes Identitätsmerkmal. „Wir“ werden belehrt, die Welt in Bezug auf die Nationalität zu sehen. Es ist „unser“ Land, „unsere“ Athleten treten bei den Olympischen Spielen an. Wenn sie gewinnen, ist es „unsere“ Flagge, die in der Zeremonie weht. „Unsere“ Hymne wird vor den Juroren und anderen Teilnehmer bei der Preisverleihung gespielt. „Wir“ werden dazu gebracht zu glauben, dass es „unser“ Sieg ist, obwohl es nie ganz klar ist, wie „wir“ teilgenommen haben, außer dass wir uns als Staatsbürger innerhalb desselben Territoriums befinden.
 
@@ -509,7 +486,7 @@ Wenn man Laschs Argument folgt, war das Ziel der Vertiefung eines Opferkults, Na
 
 Noch bevor die Informationstechnologie begann, durch die „kreative Zerstörung“ die Industriewirtschaft zu bedrohen, hatte sie bereits viele der geschätzten Mythen von Marxisten und Sozialisten überholt. Wir haben die Megapolitik der Innovation in einem vorherigen Kapitel untersucht. Der Punkt, den wir dort betonten, ist von Bedeutung, um die sozialen Auswirkungen der Informationsrevolution in Perspektive zu setzen. Der Präzedenzfall, dass die Technologie die Beschäftigungsmöglichkeiten in den letzten Jahrhunderten erweitert hat, scheint eine verlässliche Regel des Wirtschaftslebens zu sein, aber das muss nicht so sein. Es ist möglich, dass sich die Gewinne in den Händen einer wohlhabenden Minderheit konzentrieren.
 
-## Die realen Löhne fallen um 50 Prozent
+## DIE REALEN LÖHNE FALLEN UM 50 PROZENT
 
 Genau das ist in den ersten zwei Jahrhunderten oder mehr des modernen Zeitalters tatsächlich passiert. Von der Zeit der Schießpulverrevolution um 1500 bis 1700 sanken die Realeinkommen für die unteren 60-80 Prozent der Bevölkerung in den meisten Ländern Westeuropas um 50 Prozent oder mehr.[^407] In vielen Orten sank das Realeinkommen weiter bis 1750 und erreichte die Werte von 1500 erst wieder um 1850.
 
