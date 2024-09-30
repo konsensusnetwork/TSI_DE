@@ -8,7 +8,7 @@ Große Veränderungen in den vorherrschenden Produktions- oder Verteidigungsform
 
 Diejenigen, die Zwang und lokale Vorteile genutzt haben, um Einkommen umzuverteilen, sind dazu bestimmt, einen Großteil ihrer Macht zu verlieren. Dies wird die Herrschaft über die Ressourcen verändern. Privat generiertes Vermögen, das bisher vom Nationalstaat beansprucht wurde, wird stattdessen von denen einbehalten, die es verdienen. Es werden immer mehr Vermögen in die Hände der fähigsten Unternehmer und Risikokapitalgeber weltweit gelangen. Globalisierung, zusammen mit anderen Merkmalen der Informationswirtschaft, wird dazu tendieren, das Einkommen der talentiertesten Personen in jedem Bereich zu erhöhen. Da der Grenzwert, der durch herausragende Leistungen erzeugt wird, so enorm sein wird, wird die Verteilung der Verdienstmöglichkeiten in der gesamten Weltwirtschaft ähnlich aussehen wie jetzt in Leistungsberufen wie der Leichtathletik und der Oper.
 
-## EINE GRÖẞENORDNUNG JENSEITS DES PARETO-PRINZIPS
+## EINE GRÖSSENORDNUNG JENSEITS DES PARETO-PRINZIPS
 
 Das Pareto-Prinzip besagt, dass 80 Prozent des Nutzens von 20 Prozent der Betroffenen stammt oder auf sie zurückzuführen sind. Dies mag ungefähr zutreffen, obwohl auffällig ist, dass ein Prozent der Bevölkerung der Vereinigten Staaten 28,7 Prozent der Einkommenssteuer zahlt. Dies legt nahe, dass Gesellschaften mit dem Fortschreiten ins Informationszeitalter eine noch schiefere Verteilung von Einkommen und Fähigkeiten erleben werden, als Vilfredo Pareto sie am Ende des letzten Jahrhunderts beobachtet hat. Die Menschen sind es durchaus gewohnt, große Ungleichheiten im Reichtum zu haben. Im Jahr 1828 sollen 4 Prozent der New Yorker 62 Prozent des gesamten Reichtums der Stadt besessen haben. Bis 1845 besaßen die obersten 4 Prozent etwa 81 Prozent des gesamten Unternehmens- und Nicht-Unternehmensvermögens in New York City. Im weiteren Sinne besaßen die obersten 10 Prozent der Bevölkerung etwa 40 Prozent des Reichtums in den gesamten Vereinigten Staaten im Jahr 1860. Den Aufzeichnungen zufolge besaßen die reichsten 12 Prozent dann etwa 86 Prozent des amerikanischen Vermögens im Jahr 1890.[^270]
 
@@ -26,41 +26,41 @@ Im späten neunzehnten Jahrhundert begann eine Reihe von Ökonomen, unter denen 
 
 Otto Ammon interessierte sich für die Verteilung von Fähigkeiten in der Gesellschaft und deren Beziehung zur Verteilung von Einkommen und Status. Als Ausgangspunkt nahm er das wahrscheinliche Auftreten von Gesamtpunkten aus vier Würfeln, jeder mit sechs Seiten. Von 1.296 möglichen Würfen treten einige Summen häufiger auf als andere.
 
-Die Summe von 24 Punkten wird einmal auftreten.\
-Die Summe von 23 Punkten wird 4 mal auftreten.\
-Die Summe von 22 Punkten wird 10 mal auftreten.\
-Die Summe von 21 Punkten wird 20 mal auftreten.\
-Die Summe von 20 Punkten wird 35 mal auftreten.\
-Die Summe von 19 Punkten wird 56 mal auftreten.\
-Die Summe von 18 Punkten wird 80 mal auftreten.\
-Die Summe von 17 Punkten wird 104 mal auftreten.\
-Die Summe von 16 Punkten wird 125 mal auftreten.\
-Die Summe von 15 Punkten wird 140 mal auftreten.\
-Die Summe von 14 Punkten wird 146 mal auftreten.\
-Die Summe von 13 Punkten wird 140 mal auftreten.\
-Die Summe von 12 Punkten wird 125 mal auftreten.\
-Die Summe von 11 Punkten wird 104 mal auftreten.\
-Die Summe von 10 Punkten wird 80 mal auftreten.\
-Die Summe von 9 Punkten wird 56 mal auftreten.\
-Die Summe von 8 Punkten wird 35 mal auftreten.\
-Die Summe von 7 Punkten wird 20 mal auftreten.\
-Die Summe von 6 Punkten wird 10 mal auftreten.\
-Die Summe von 5 Punkten wird 4 mal auftreten.\
-Die Summe von 4 Punkten wird einmal auftreten.
+*Die Summe von 24 Punkten wird einmal auftreten.
+Die Summe von 23 Punkten wird 4 mal auftreten.
+Die Summe von 22 Punkten wird 10 mal auftreten.
+Die Summe von 21 Punkten wird 20 mal auftreten.
+Die Summe von 20 Punkten wird 35 mal auftreten.
+Die Summe von 19 Punkten wird 56 mal auftreten.
+Die Summe von 18 Punkten wird 80 mal auftreten.
+Die Summe von 17 Punkten wird 104 mal auftreten.
+Die Summe von 16 Punkten wird 125 mal auftreten.
+Die Summe von 15 Punkten wird 140 mal auftreten.
+Die Summe von 14 Punkten wird 146 mal auftreten.
+Die Summe von 13 Punkten wird 140 mal auftreten.
+Die Summe von 12 Punkten wird 125 mal auftreten.
+Die Summe von 11 Punkten wird 104 mal auftreten.
+Die Summe von 10 Punkten wird 80 mal auftreten.
+Die Summe von 9 Punkten wird 56 mal auftreten.
+Die Summe von 8 Punkten wird 35 mal auftreten.
+Die Summe von 7 Punkten wird 20 mal auftreten.
+Die Summe von 6 Punkten wird 10 mal auftreten.
+Die Summe von 5 Punkten wird 4 mal auftreten.
+Die Summe von 4 Punkten wird einmal auftreten.*
 
 Es wird sofort deutlich, dass hohe und niedrige Werte beide vergleichsweise selten sind. Es gibt zwei mögliche Summen, aber die oberen vier davon treten nur fünfunddreißig Mal auf. Die mittlere Gruppe von sieben Werten kann voraussichtlich 884 Mal auftreten; das mittlere Drittel der möglichen Werte ist das Ergebnis in mehr als zwei Dritteln aller Würfe. Dies führt zur charakteristischen Häufung in der Mitte in der Wahrscheinlichkeitstheorie.
 
 Otto Ammon argumentierte, dass diese zufällige Verteilung von Würfelwürfen der Verteilung menschlicher Fähigkeiten entsprach. Er schrieb dies, bevor die Entwicklung von Intelligenztests und IQs stattfand, und stützte sich auf die früheren Arbeiten über Intelligenz von Francis Galton. Ammon war nicht der Meinung, dass sozialer Nutzen oder Erfolg im Leben einfach von der Intelligenz abhing. Er listete „drei Gruppen von geistigen Eigenschaften auf, die weitgehend darüber entscheiden, welchen Platz ein Mann im Leben einnehmen wird“. Diese lauteten:
 
-1.  Geistige Eigenschaften; hierzu zählte ich alles, was zur rationalen Seite der menschlichen Fähigkeiten gehört, wie schnelle Auffassungsgabe, Gedächtnis, Urteilsvermögen, Erfindungsgeist und alles andere, was zu diesem Gebiet gehört.
+1.  *Geistige Eigenschaften*; hierzu zählte ich alles, was zur rationalen Seite der menschlichen Fähigkeiten gehört, wie schnelle Auffassungsgabe, Gedächtnis, Urteilsvermögen, Erfindungsgeist und alles andere, was zu diesem Gebiet gehört.
 
-2.  Moralische Eigenschaften; nämlich Selbstkontrolle, Willenskraft, Fleiß, Ausdauer, Mäßigung, Beachtung der familiären Verpflichtungen, Ehrlichkeit und dergleichen.
+2.  *Moralische Eigenschaften*; nämlich Selbstkontrolle, Willenskraft, Fleiß, Ausdauer, Mäßigung, Beachtung der familiären Verpflichtungen, Ehrlichkeit und dergleichen.
 
-3.  Wirtschaftliche Merkmale; wie unternehmerische Fähigkeiten, organisatorisches Talent, technisches Können, Vorsicht, kluge Kalkulation, Weitblick, Sparsamkeit und so weiter.
+3.  *Wirtschaftliche Merkmale*; wie unternehmerische Fähigkeiten, organisatorisches Talent, technisches Können, Vorsicht, kluge Kalkulation, Weitblick, Sparsamkeit und so weiter.
 
 Zu diesen geistigen Merkmalen fügte er hinzu:
 
-4.  Körperliche Eigenschaften; Arbeitskraft, Ausdauer, die Fähigkeit, Anstrengungen zu ertragen und Erregungen jeder Art zu widerstehen, Vitalität, Gesundheit, usw.
+4.  *Körperliche Eigenschaften*; Arbeitskraft, Ausdauer, die Fähigkeit, Anstrengungen zu ertragen und Erregungen jeder Art zu widerstehen, Vitalität, Gesundheit, usw.
 
 In Otto Ammons Sichtweise entsprach die wahrscheinliche Verteilung dieser Qualitäten von Intelligenz, Charakter, Talent und Körper den Punktzahlen im Würfelspiel. Er ging sogar noch weiter und argumentierte, dass es tatsächlich viel mehr als vier Variablen gab und dass diese in mehr als sechs Stufen variierten. Würde man anstelle von vier Würfeln acht werfen, dann gäbe es nicht weniger als 1.679.616 mögliche Würfe, aber man könnte erwarten, dass die höchste Punktzahl, achtundvierzig, nur einmal auftritt. Der Mann oder die Frau, die in all den Faktoren, die den Platz im Leben bestimmen, sehr hoch abschneiden, sind viel seltener als die Wahrscheinlichkeit, vier Sechser zu werfen, nahelegen würde; vielleicht so selten wie das Werfen von acht Sechsern. Dennoch merkt Ammon an, dass eine Mischung aus hohen und niedrigen Punktzahlen in diesen menschlichen Qualitäten „Personen mit unausgeglichenen, unharmonischen Gaben“ hervorbringen kann, die „trotz einiger brillanter Eigenschaften die Prüfungen des Lebens nicht erfolgreich bestehen können.“
 

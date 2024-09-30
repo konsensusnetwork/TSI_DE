@@ -310,7 +310,7 @@ Um es mit den Worten des Experten für das Jahr 2000, Peter de Jager, zu sagen: 
 
 Heutzutage kann niemand mit Gewissheit vorhersagen, wie groß der Einfluss des Jahr-2000-Problems auf wichtige Systeme sein wird. Eingebettete Systeme, die sich nicht umprogrammieren lassen und daher ersetzt werden müssen, wenn sie aufgrund von Datumsproblemen nicht mehr funktionieren, finden sich in Karten, Lastwagen und Bussen, die nach 1976 gebaut wurden. (Vielleicht werden Sie nicht in einen Unfall mit Fahrzeugen verwickelt, die von Personen mit nicht konformen Herzschrittmachern gefahren werden, da deren Fahrzeuge möglicherweise nicht starten werden). Eingebettete Systeme sind weit verbreitet, selbst in Kraftwerken, Wasser- und Abwasseranlagen, medizinischen Geräten, Militärausrüstung, Flugzeugen, Ölplattformen, Öltankern, Alarmsystemen und Aufzügen. Auch wenn viele Mikroprozessorsysteme keine datumsabhängigen Funktionen ausführen, könnten sie möglicherweise von einer Uhr abhängig sein, die aufgrund des „Millennium-Bugs“ Probleme bereiten könnte.
 
-## GROẞRECHNER UND DIE JAHR-2000-ZEITBOMBE
+## GROSSRECHNER UND DIE JAHR-2000-ZEITBOMBE
 
 Die umfangreichen Befehls- und Kontrollsysteme von Behörden und Großunternehmen mit hohem Transaktionsvolumen auf Großrechnern standen ursprünglich im Zentrum der sogenannten Jahr-2000-Problematik. Da diese Systeme auf leistungsfähigen Maschinen betrieben werden, deren Mehrzahl an Software schon Jahrzehnte alt ist und häufig Inkompatibilitäten aufweist, lag der Schwerpunkt der von Peter de Jager Anfang der 90er Jahre erstmals geäußerten Warnungen vor dem Jahr-2000-Problem auf der Notwendigkeit, die Betriebssysteme der zentralen Großrechner mit Mehrprozessorarchitektur zu aktualisieren. Herr de Jager äußerte die Befürchtung, dass es möglicherweise nicht genügend Programmierer gibt, die mit COBOL, der klassischen Großrechner-Sprache, vertraut sind, um die notwendigen Patches und Reparaturen für datumsabhängigen Code durchzuführen, selbst wenn jedes Unternehmen und jede Regierungsbehörde mit einem anfälligen System bereits vor einigen Jahren ein Crash-Programm initiiert hätte. Da dies jedoch nicht der Fall war und viele Betreiber datumsabhängiger Informationssysteme erst kürzlich begonnen haben, ihre Schwachstellen zu analysieren, lässt sich mit an Sicherheit grenzender Wahrscheinlichkeit vorhersagen, dass eine Menge von Großrechnersystemen nicht ausreichend auf einen reibungslosen Betrieb ins Jahr 2000 vorbereitet sein werden.
 
@@ -362,41 +362,41 @@ Wir sind der Überzeugung, dass das Jahr 2000 mehr als nur eine weitere zweckdie
 
 Über 85 Jahre nach dem Tag im Jahr 1911, an dem Oswald Spengler die Vision eines bevorstehenden Weltkriegs und des „Untergangs des Abendlands“ hatte, erleben auch wir einen „historischen Paradigmenwechsel, der sich genau an jenem Punkt vollzieht, der ihm vor Jahrhunderten vorherbestimmt war.“ [^26] Wie Spengler prophezeien auch wir den nahenden Untergang der westlichen Zivilisation und damit den Zusammenbruch der Weltordnung, die die vergangenen fünf Jahrhunderte dominierte, seit Kolumbus nach Westen gesegelt ist, um den Kontakt zur Neuen Welt herzustellen. Im Gegensatz zu Spengler sehen wir jedoch das Aufkommen einer neuen Phase der westlichen Zivilisation im heraufziehenden neuen Jahrtausend.
 
-[^1]: Danny Hillis, „The Millenium Clock“, Wired, Special Edition, Herbst 1995, S. 48.
+[^1]: Danny Hillis, *The Millenium Clock*, Wired, Special Edition, Herbst 1995, S. 48.
 
-[^2]: Ericka Cheetham, The Final Prophecies of Nostradamus (New York: Putnam, 1989), S. 424.
+[^2]: Ericka Cheetham, *The Final Prophecies of Nostradamus* (New York: Putnam, 1989), S. 424.
 
-[^3]: Dr. Edward Yardeni, Year 2000 Recession: “Prepare for the worst. Hope for the best“, Version 5.0, 13. Mai 1998, B1.2.
+[^3]: Dr. Edward Yardeni, *Year 2000 Recession: “Prepare for the worst. Hope for the best“*, Version 5.0, 13. Mai 1998, B1.2.
 
-[^4]: Michael Grasso, The Millenium Myth: Love and Death at the End of Time, Wheaton, Illinois: Quest Books, 1995.
+[^4]: Michael Grasso, *The Millenium Myth: Love and Death at the End of Time*, Wheaton, Illinois: Quest Books, 1995.
 
-[^5]: Johan Huizinga, The Waning of the Middle Ages, trans. E Hopman (London: Penguin Books, 1990), S. 172.
+[^5]: Johan Huizinga, *The Waning of the Middle Ages*, trans. E Hopman (London: Penguin Books, 1990), S. 172.
 
-[^6]: Marshall McLuhan, Understanding Media, New York: Signet, 1964, S. 19.
+[^6]: Marshall McLuhan, *Understanding Media*, New York: Signet, 1964, S. 19.
 
-[^7]: James George Frazer, The Golden Bough: A Study in Magic and Religion (New York: Macmillan, 1951), S. 105.
+[^7]: James George Frazer, *The Golden Bough: A Study in Magic and Religion* (New York: Macmillan, 1951), S. 105.
 
 [^8]: Für mehr Einzelheiten über fragmentierte Souveränitäten als Vorläufer und Alternative zum Nationalstaat, siehe Charles Tilly, Coercion, Capital and European States AD 990-1992 (Oxford: Blackwell, 1993).
 
 [^9]: Der deutsche GPI-Index lag am 31. Dezember 1948 bei 33,20 und am 30. Juni 1995 bei 112,90, was einer durchschnittlichen jährlichen Abwertung von 2,7% entspricht. Der VPI der USA lag am 31. Dezember 1948 bei 24 und am 30. Juni 1995 bei 152,50. Die kumulierte Inflation in den USA betrug in diesem Zeitraum 635%.
 
-[^10]: Janet L. Abu-Lughod, Before European Hegemony: The World System A.D. 1250-1350 (Oxford: Oxford University Press, 1991), S. 62.
+[^10]: Janet L. Abu-Lughod, *Before European Hegemony: The World System A.D. 1250-1350* (Oxford: Oxford University Press, 1991), S. 62.
 
-[^11]: Jack Cohen and Ian Stewart, The Collapse of Chaos (New York: Viking, 1994).
+[^11]: Jack Cohen and Ian Stewart, *The Collapse of Chaos* (New York: Viking, 1994).
 
-[^12]: Siehe James Dale Davidson und Lord William Rees-Mogg, The Great Reckoning, Zweite Ausgabe (New York: Simon & Schuster, 1993), S. 53.
+[^12]: Siehe James Dale Davidson und Lord William Rees-Mogg, *The Great Reckoning*, Zweite Ausgabe (New York: Simon & Schuster, 1993), S. 53.
 
-[^13]: Frederic C. Lane, „Economic Consequences of Organized Violence“, The Journal of Economic History Vol. 18, No. 4 (Dezember 1958), S. 402.
+[^13]: Frederic C. Lane, *Economic Consequences of Organized Violence*, The Journal of Economic History Vol. 18, No. 4 (Dezember 1958), S. 402.
 
-[^14]: Nicholas Colehester, „Goodbye Nation-State, Hello . . . What?“, New York Times, 17. Juli 1994, Abschnitt 4, S. 17.
+[^14]: Nicholas Colehester, *Goodbye Nation-State, Hello . . . What?*, New York Times, 17. Juli 1994, Abschnitt 4, S. 17.
 
-[^15]: Norman Macrae, „Governments in Decline“, Cato Policy Report, Juli/August 1992, S. 10.
+[^15]: Norman Macrae, *Governments in Decline*, Cato Policy Report, Juli/August 1992, S. 10.
 
-[^16]: Arthur C. Clarke, Profiles of the Future: An Enquiry into the Limits of the Possible (London: Victor Gollancz Ltd., 1962), S. 13.
+[^16]: Arthur C. Clarke, *Profiles of the Future: An Enquiry into the Limits of the Possible* (London: Victor Gollancz Ltd., 1962), S. 13.
 
 [^17]: Ebenda.
 
-[^18]: A. T. Mann, Millennium Prophecies: Predictions for the Year 2000 (Shafiesbury, England: Element Books, 1992), S. 88ff.
+[^18]: A. T. Mann, *Millennium Prophecies: Predictions for the Year 2000* (Shafiesbury, England: Element Books, 1992), S. 88ff.
 
 [^19]: Yardeni, op. cit., S. 45.
 
@@ -404,15 +404,15 @@ Wir sind der Überzeugung, dass das Jahr 2000 mehr als nur eine weitere zweckdie
 
 [^21]: Ebenda.
 
-[^22]: William Playfair, An Inquiry into the Permanent Causes of the Decline and Fall of Powerful and Wealthy Nations. Designed to Shew How the Prosperity of the British Empire May be Prolonged (London: Greenland and Norris, 1805), S.79.
+[^22]: William Playfair, *An Inquiry into the Permanent Causes of the Decline and Fall of Powerful and Wealthy Nations: Designed to Shew How the Prosperity of the British Empire May be Prolonged* (London: Greenland and Norris, 1805), S.79.
 
-[^23]: Guy Bois, The Transformation of the Year One Thousand: The Village of Lournard from Antiquity to Feudalism (Manchester, England: Manchester University Press, 1992).
+[^23]: Guy Bois, *The Transformation of the Year One Thousand: The Village of Lournard from Antiquity to Feudalism* (Manchester, England: Manchester University Press, 1992).
 
 [^24]: Ebenda, S. 150.
 
-[^25]: Zitiert in S. B. Saul, The Myth of the Great Depression (London: Macmillan, 1985), S. 10.
+[^25]: Zitiert in S. B. Saul, *The Myth of the Great Depression* (London: Macmillan, 1985), S. 10.
 
-[^26]: Oswald Spengler, The Decline of the West, Übersetzung ins Englische von Charles Francis Atkinson, zitiert in I. F. Clark, The Pattern of Expectation, 1644-2001 (London: Jonathan Cape, 1979), S. 220.
+[^26]: Oswald Spengler, *The Decline of the West*, Übersetzung ins Englische von Charles Francis Atkinson, zitiert in I. F. Clark, The Pattern of Expectation, 1644-2001 (London: Jonathan Cape, 1979), S. 220.
 
 [^27]: Nomenklaturen sind die verwurzelten Eliten, die die frühere Sowjetunion und andere staatlich gelenkte Volkswirtschaften beherrschten.
 
