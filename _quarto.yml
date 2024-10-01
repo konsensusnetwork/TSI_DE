@@ -112,3 +112,5 @@ format:
     toc-depth: 1
     toc-title: Inhalt
     lang: "de-DE"
+    css: epub.css
+    number-depth: 2
