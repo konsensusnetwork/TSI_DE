@@ -1,4 +1,5 @@
 /*-- scss:defaults --*/
+$border-radius: 2em;
 
 // Block quotes
 blockquote {
@@ -9,6 +10,7 @@ blockquote {
     margin-bottom: 2em;
 }
 
+// Index about section (TITLE PAGE)
 .about-entity {
     padding-left: 1em;
 }
@@ -18,59 +20,25 @@ blockquote {
     flex-direction: column;
 }
 
-.about-link {
-    font-size: 1rem !important;
-    border-radius: 0.5em !important;
-    padding: 0.5em !important;
-    background-color: $navbar-bg;
-
-    &:hover {
-        background-color: $link-color-hover;
-    }
+.about-links {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 175px !important;
 }
 
 .about-link {
+    font-size: 1rem !important;
+    border-radius: $border-radius !important;
+    border-color: $navbar-border-color !important;
+    padding: 0.5em !important;
+    background-color: $navbar-bg;
     color: $link-color !important;
     font-weight: bold;
 
     &:hover {
-        color: $navbar-bg !important
-    }
-}
-
-.navbar {
-    text-transform: none !important;
-    padding-block: 0.5em !important;
-}
-
-.nav-page {
-    padding-block: 0.1rem !important;
-    padding-inline: 0rem !important;
-    font-size: 0.8rem !important;
-}
-
-.nav-page-previous {
-    visibility: hidden;
-    width: 0px;
-}
-
-.nav-page-texts {
-    font-size: 0.8rem !important;
-}
-.nav-page-next {
-    border-style: solid;
-    border-radius: 1em;
-    border-width: 1px;
-    min-width: fit-content  !important;
-    padding-inline: 1em !important;
-
-    &:hover {
+        color: $navbar-bg !important;
         background-color: $link-color-hover;
     }
-}
-
-#quarto-content {
-    margin-bottom: 2em;
 }
 
 .about-image {
@@ -86,4 +54,37 @@ blockquote {
 
 .quarto-title-meta-heading {
     font-weight: bold !important;
+}
+
+// Navbar
+.navbar {
+    text-transform: none !important;
+    padding-block: 0.8rem !important;
+    border-bottom: 1px solid $navbar-border-color;
+}
+
+// Next/Previous page navigation
+.nav-page {
+    padding-block: 0.1rem !important;
+    padding-inline: 0rem !important;
+    font-size: 0.8rem !important;
+}
+
+.nav-page-previous {
+    visibility: hidden;
+    width: 0px;
+}
+
+.nav-page-text {
+    font-size: 0.8rem !important;
+    color: $link-color !important;
+}
+
+.nav-page-next {
+
+    color: $link-color !important;
+}
+
+#quarto-content {
+    margin-bottom: 2em;
 }

@@ -18,7 +18,7 @@ book:
   language: de
   original-title: "The Sovereign Individual"
   publisher: Konsensus Network
-  original-publisher: Simon and Schuster
+  original-publisher: Simon & Schuster
   favicon: /figures/freestarfish.png
   repo-url: https://github.com/konsensusnetwork/TSI_DE
   repo-actions: [edit, source]
@@ -66,25 +66,23 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
-    - chapters/TSI_DE_CH01.qmd
-    - chapters/TSI_DE_CH02.qmd
-    - chapters/TSI_DE_CH03.qmd
-    - chapters/TSI_DE_CH04.qmd
-    - chapters/TSI_DE_CH05.qmd
-    - chapters/TSI_DE_CH06.qmd
-    - chapters/TSI_DE_CH07.qmd
-    - chapters/TSI_DE_CH08.qmd
-    - chapters/TSI_DE_CH09.qmd
-    - chapters/TSI_DE_CH10.qmd
-    - chapters/TSI_DE_CH11.qmd
-  
+    - kapitel/01.qmd
+    - kapitel/02.qmd
+    - kapitel/03.qmd
+    - kapitel/04.qmd
+    - kapitel/05.qmd
+    - kapitel/06.qmd
+    - kapitel/07.qmd
+    - kapitel/08.qmd
+    - kapitel/09.qmd
+    - kapitel/10.qmd
+    - kapitel/11.qmd
 
 format:
   html:
     lang: de
     theme:
       light: [flatly, theme.scss, theme-light.scss]
-      dark: [flatly, theme.scss, theme-dark.scss]
     number-depth: 2
     grid:
       sidebar-width: 500px
@@ -107,12 +105,10 @@ format:
       - preamble.tex
   epub:
     cover-image: cover.png
-    cover-image-alt: Das souveräne Individuum
+    cover-image-alt: |
+      Das souveräne Individuum book cover
     creator: Konsensus Network
     toc: true
     toc-depth: 1
     toc-title: Inhalt
     lang: "de-DE"
-
-
-
