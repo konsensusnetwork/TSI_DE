@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <link href="./kapitel/01.html" rel="next">
 <link href=".//figures/freestarfish.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,7 +69,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Suchen"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-custom-toc .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-custom-toc'] = new List('listing-custom-toc', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="Das souveräne Individuum">
 <meta property="og:description" content="Der Übergang zum Informationszeitalter">
@@ -165,10 +225,121 @@ ul.task-list li input[type="checkbox"] {
 <p>Die zwei renommierten Anlageberater und Autoren des Bestsellers <em>The Great Reckoning</em> beleuchten angesichts des radikalen Wandels in der Menschheitsgeschichte sowohl Katastropheneinflüsse als auch das Potenzial für Wohlstand und Erneuerung. Das Souveräne Individuum zeigt Strategien auf, die notwendig sind, um sich finanziell auf die nächste Phase der westlichen Zivilisation einzustellen.</p>
 <p>Nur wenige Beobachter des späten zwanzigsten Jahrhunderts hatten ihre Finger so vorausschauend am Puls der globalen politischen und wirtschaftlichen Neuordnung, die das neue Jahrtausend einläutete, wie James Dale Davidson und Lord William Rees-Mogg. Ihre wagemutige Vorhersage einer Katastrophe an der Wall Street in Blood in the Streets bestätigte sich am Schwarzen Dienstag. In ihrem darauf folgenden Bestseller The Great Reckoning, der nur wenige Wochen vor dem Putschversuch gegen Gorbatschow veröffentlicht wurde, analysierten sie den bevorstehenden Zusammenbruch der Sowjetunion und sagten den Bürgerkrieg in Jugoslawien und andere Ereignisse voraus, die sich als einige der erschütterndsten Entwicklungen der letzten Jahre erwiesen haben.</p>
 <p>In Das Souveräne Individuum erforschen Davidson und Rees-Mogg den größten wirtschaftlichen und politischen Wandel seit Jahrhunderten - den Übergang von einer Industrie- zu einer Informationsgesellschaft. Dieser Übergang, den sie als „die vierte Stufe der menschlichen Gesellschaft“ bezeichnen, wird das Individuum wie nie zuvor befreien und die Macht der Regierungen unwiderruflich verändern. Dieses herausragende Buch wird falsche Hoffnungen und Fiktionen durch ein neues Verständnis und aufgeklärte Werte ersetzen.</p>
+</section>
+<section id="inhalt" class="level2">
+<h2 data-anchor-id="inhalt">Inhalt</h2>
+<div id="sample-listings">
+</div>
 
 
 </section>
-</main></div>
+<div class="quarto-listing quarto-listing-container-table" id="listing-custom-toc">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Titel
+</th>
+<th>
+Lesezeit
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1727732025497" data-listing-reading-time-sort="85" data-listing-word-count-sort="16965" data-listing-title-sort="DER ÜBERGANG IN DAS JAHR 2000" data-listing-filename-sort="01.qmd">
+<td>
+<a href="./kapitel/01.html" class="title listing-title">DER ÜBERGANG IN DAS JAHR 2000</a>
+</td>
+<td>
+<span class="listing-reading-time">85 min</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1727725304008" data-listing-reading-time-sort="46" data-listing-word-count-sort="9103" data-listing-title-sort="MEGAPOLITISCHE VERÄNDERUNGEN IM HISTORISCHEN KONTEXT" data-listing-filename-sort="02.qmd">
+<td>
+<a href="./kapitel/02.html" class="title listing-title">MEGAPOLITISCHE VERÄNDERUNGEN IM HISTORISCHEN KONTEXT</a>
+</td>
+<td>
+<span class="listing-reading-time">46 min</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1727735796562" data-listing-reading-time-sort="47" data-listing-word-count-sort="9372" data-listing-title-sort="ÖSTLICH VON EDEN" data-listing-filename-sort="03.qmd">
+<td>
+<a href="./kapitel/03.html" class="title listing-title">ÖSTLICH VON EDEN</a>
+</td>
+<td>
+<span class="listing-reading-time">47 min</span>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1727725304012" data-listing-reading-time-sort="68" data-listing-word-count-sort="13590" data-listing-title-sort="DIE LETZTEN TAGE DER POLITIK" data-listing-filename-sort="04.qmd">
+<td>
+<a href="./kapitel/04.html" class="title listing-title">DIE LETZTEN TAGE DER POLITIK</a>
+</td>
+<td>
+<span class="listing-reading-time">68 min</span>
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1727725304012" data-listing-reading-time-sort="55" data-listing-word-count-sort="10810" data-listing-title-sort="DAS LEBEN UND DIE GESUNDHEIT DES NATIONENSTAATES" data-listing-filename-sort="05.qmd">
+<td>
+<a href="./kapitel/05.html" class="title listing-title">DAS LEBEN UND DIE GESUNDHEIT DES NATIONENSTAATES</a>
+</td>
+<td>
+<span class="listing-reading-time">55 min</span>
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1727725304016" data-listing-reading-time-sort="92" data-listing-word-count-sort="18300" data-listing-title-sort="DIE MEGAPOLITIK DES INFORMATIONSZEITALTERS" data-listing-filename-sort="06.qmd">
+<td>
+<a href="./kapitel/06.html" class="title listing-title">DIE MEGAPOLITIK DES INFORMATIONSZEITALTERS</a>
+</td>
+<td>
+<span class="listing-reading-time">92 min</span>
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1727725304016" data-listing-reading-time-sort="60" data-listing-word-count-sort="11863" data-listing-title-sort="DIE ÜBERWINDUNG DES RÄUMLICHEN" data-listing-filename-sort="07.qmd">
+<td>
+<a href="./kapitel/07.html" class="title listing-title">DIE ÜBERWINDUNG DES RÄUMLICHEN</a>
+</td>
+<td>
+<span class="listing-reading-time">60 min</span>
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1727725304016" data-listing-reading-time-sort="66" data-listing-word-count-sort="13180" data-listing-title-sort="DAS ENDE DER EGALITÄREN ÖKONOMIE" data-listing-filename-sort="08.qmd">
+<td>
+<a href="./kapitel/08.html" class="title listing-title">DAS ENDE DER EGALITÄREN ÖKONOMIE</a>
+</td>
+<td>
+<span class="listing-reading-time">66 min</span>
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1727725304024" data-listing-reading-time-sort="149" data-listing-word-count-sort="29676" data-listing-title-sort="NATIONALISMUS, REAKTIONISMUS UND DIE NEUEN LUDDITEN" data-listing-filename-sort="09.qmd">
+<td>
+<a href="./kapitel/09.html" class="title listing-title">NATIONALISMUS, REAKTIONISMUS UND DIE NEUEN LUDDITEN</a>
+</td>
+<td>
+<span class="listing-reading-time">149 min</span>
+</td>
+</tr>
+<tr data-index="9" data-listing-file-modified-sort="1727725304024" data-listing-reading-time-sort="63" data-listing-word-count-sort="12496" data-listing-title-sort="DIE DÄMMERUNG DER DEMOKRATIE" data-listing-filename-sort="10.qmd">
+<td>
+<a href="./kapitel/10.html" class="title listing-title">DIE DÄMMERUNG DER DEMOKRATIE</a>
+</td>
+<td>
+<span class="listing-reading-time">63 min</span>
+</td>
+</tr>
+<tr data-index="10" data-listing-file-modified-sort="1727725304024" data-listing-reading-time-sort="82" data-listing-word-count-sort="16246" data-listing-title-sort="MORAL UND VERBRECHEN IN DER „NATÜRLICHEN WIRTSCHAFT“ DES INFORMATIONSZEITALTERS" data-listing-filename-sort="11.qmd">
+<td>
+<a href="./kapitel/11.html" class="title listing-title">MORAL UND VERBRECHEN IN DER „NATÜRLICHEN WIRTSCHAFT“ DES INFORMATIONSZEITALTERS</a>
+</td>
+<td>
+<span class="listing-reading-time">82 min</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+Keine Treffer
+</div>
+</div></main></div>
 </div>
  <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
