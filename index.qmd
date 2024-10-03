@@ -26,6 +26,16 @@ format:
       body-width: 1400px
       gutter-width: 25px
     toc: false
+listing:
+  id: custom-toc
+  contents: kapitel
+  sort: false
+  type: table
+  fields:
+    - title
+    - reading-time
+  sort-ui: false
+  filter-ui: false
 ---
 
 ::: {.content-hidden when-format="pdf"}
@@ -36,4 +46,10 @@ Die zwei renommierten Anlageberater und Autoren des Bestsellers *The Great Recko
 Nur wenige Beobachter des späten zwanzigsten Jahrhunderts hatten ihre Finger so vorausschauend am Puls der globalen politischen und wirtschaftlichen Neuordnung, die das neue Jahrtausend einläutete, wie James Dale Davidson und Lord William Rees-Mogg. Ihre wagemutige Vorhersage einer Katastrophe an der Wall Street in Blood in the Streets bestätigte sich am Schwarzen Dienstag. In ihrem darauf folgenden Bestseller The Great Reckoning, der nur wenige Wochen vor dem Putschversuch gegen Gorbatschow veröffentlicht wurde, analysierten sie den bevorstehenden Zusammenbruch der Sowjetunion und sagten den Bürgerkrieg in Jugoslawien und andere Ereignisse voraus, die sich als einige der erschütterndsten Entwicklungen der letzten Jahre erwiesen haben.
 
 In Das Souveräne Individuum erforschen Davidson und Rees-Mogg den größten wirtschaftlichen und politischen Wandel seit Jahrhunderten - den Übergang von einer Industrie- zu einer Informationsgesellschaft. Dieser Übergang, den sie als „die vierte Stufe der menschlichen Gesellschaft“ bezeichnen, wird das Individuum wie nie zuvor befreien und die Macht der Regierungen unwiderruflich verändern. Dieses herausragende Buch wird falsche Hoffnungen und Fiktionen durch ein neues Verständnis und aufgeklärte Werte ersetzen.
+
+## Inhalt
+::: {#sample-listings}
 :::
+
+:::
+
