@@ -18,7 +18,6 @@ about:
 navbar: true
 sidebar: false
 page-layout: full
-cover-image: false
 format:
   html:
     grid:
