@@ -60,11 +60,11 @@ Das wiederkehrende Thema der Unterschätzung technologischer Entwicklungen ist w
 
 Wir würden den Kritikern zugestehen, dass eine Aufzählung der Aufgaben, die man 1996 durch das Internet hätte erledigen können, banal erscheinen mag. Schließlich ist es nicht besonders revolutionär, einen Artikel über Gartenarbeit im Netz zu lesen oder aus der Ferne eine Kiste Wein zu kaufen. Allerdings sollte das Potenzial der Cyberökonomie nicht ausschließlich nach ihren frühen Anfängen beurteilt werden, genau so wenig wie das Potenzial des Automobils, die Gesellschaft zu verändern, nach dem beurteilt werden kann, was man 1900 sehen konnte. Wir gehen davon aus, dass die Cyberökonomie sich durch mehrere Stufen entwickeln wird.
 
-1.  Die primitivsten Manifestationen des Informationszeitalters nutzen das Netz einfach als Informationsmedium, um ansonsten gewöhnliche industrielle Transaktionen zu erleichtern. In diesem Stadium ist das Netz nicht mehr als ein exotisches Liefersystem für Kataloge. Virtual Vineyards zum Beispiel, einer der ersten Cyberhändler, verkauft einfach Wein von einer Seite im World Wide Web. Solche Transaktionen sind noch nicht direkt subversiv gegenüber den alten Institutionen. Sie nutzen Industriewährungen und finden innerhalb erkennbarer Zuständigkeiten statt. Eine solche Nutzung des Internets hat wenig megapolitischen Einfluss.
+1. Die primitivsten Manifestationen des Informationszeitalters nutzen das Netz einfach als Informationsmedium, um ansonsten gewöhnliche industrielle Transaktionen zu erleichtern. In diesem Stadium ist das Netz nicht mehr als ein exotisches Liefersystem für Kataloge. Virtual Vineyards zum Beispiel, einer der ersten Cyberhändler, verkauft einfach Wein von einer Seite im World Wide Web. Solche Transaktionen sind noch nicht direkt subversiv gegenüber den alten Institutionen. Sie nutzen Industriewährungen und finden innerhalb erkennbarer Zuständigkeiten statt. Eine solche Nutzung des Internets hat wenig megapolitischen Einfluss.
 
-2.  Ein mittleres Stadium des Internet-Handels wird die Informationstechnologie auf eine Weise einsetzen, die im Industriezeitalter unmöglich gewesen wären, wie etwa in der Fernbuchhaltung oder bei medizinischen Fern-Diagnosen. Weitere Beispiele für diese neuen Anwendungen der erweiterten Rechenleistung werden unten ausgeführt. Die zweite Stufe des Netz-Handels wird noch innerhalb des alten institutionellen Rahmens funktionieren, nationale Währungen verwenden und sich der Zuständigkeit der Nationalstaaten unterwerfen. Die Händler, die das Netz für den Verkauf nutzen, werden es noch nicht zur Verbuchung ihrer Gewinne nutzen, sondern nur um Umsätze zu erzielen. Diese auf Internettransaktionen basierenden Gewinne werden weiterhin besteuert werden.
+2. Ein mittleres Stadium des Internet-Handels wird die Informationstechnologie auf eine Weise einsetzen, die im Industriezeitalter unmöglich gewesen wären, wie etwa in der Fernbuchhaltung oder bei medizinischen Fern-Diagnosen. Weitere Beispiele für diese neuen Anwendungen der erweiterten Rechenleistung werden unten ausgeführt. Die zweite Stufe des Netz-Handels wird noch innerhalb des alten institutionellen Rahmens funktionieren, nationale Währungen verwenden und sich der Zuständigkeit der Nationalstaaten unterwerfen. Die Händler, die das Netz für den Verkauf nutzen, werden es noch nicht zur Verbuchung ihrer Gewinne nutzen, sondern nur um Umsätze zu erzielen. Diese auf Internettransaktionen basierenden Gewinne werden weiterhin besteuert werden.
 
-3.  Ein fortgeschritteneres Stadium wird den Übergang zu echter Cyberökonomie kennzeichnen. Transaktionen werden nicht nur über das Netz stattfinden, sondern auch die Zuständigkeit von Nationalstaaten überwinden. Die Bezahlung wird in Cyberwährung erfolgen. Gewinne werden in Cyber-Banken verbucht. Investitionen werden bei Cyber-Brokern gemacht. Viele Transaktionen werden nicht besteuert werden. In diesem Stadium wird die Cyberökonomie beginnen, erhebliche megapolitische Konsequenzen zu haben, die wir bereits skizziert haben. Die Macht von Regierungen über traditionelle wirtschaftliche Bereiche wird durch die neue Logik des Netzes transformiert werden. Exterritoriale Regulierungsgewalt wird zusammenbrechen. Die Zuständigkeiten werden sich auflösen. Die Struktur von Unternehmen wird sich verändern und ebenso die Art und Weise der Arbeit und der Beschäftigung. Dieser Überblick über die Phasen der Informationsrevolution ist nur der kargste Entwurf dessen, was das weitreichendste wirtschaftliche Transformationsereignis sein könnte.
+3. Ein fortgeschritteneres Stadium wird den Übergang zu echter Cyberökonomie kennzeichnen. Transaktionen werden nicht nur über das Netz stattfinden, sondern auch die Zuständigkeit von Nationalstaaten überwinden. Die Bezahlung wird in Cyberwährung erfolgen. Gewinne werden in Cyber-Banken verbucht. Investitionen werden bei Cyber-Brokern gemacht. Viele Transaktionen werden nicht besteuert werden. In diesem Stadium wird die Cyberökonomie beginnen, erhebliche megapolitische Konsequenzen zu haben, die wir bereits skizziert haben. Die Macht von Regierungen über traditionelle wirtschaftliche Bereiche wird durch die neue Logik des Netzes transformiert werden. Exterritoriale Regulierungsgewalt wird zusammenbrechen. Die Zuständigkeiten werden sich auflösen. Die Struktur von Unternehmen wird sich verändern und ebenso die Art und Weise der Arbeit und der Beschäftigung. Dieser Überblick über die Phasen der Informationsrevolution ist nur der kargste Entwurf dessen, was das weitreichendste wirtschaftliche Transformationsereignis sein könnte.
 
 ## DIE GLOBALISIERUNG DES HANDELS
 
@@ -132,7 +132,7 @@ General Electric hat Magnetresonanzmaschinen so überarbeitet, dass sie sowohl f
 
 Dies wird Operationen ermöglichen, die heute noch unmöglich sind, insbesondere in der Neurochirurgie, wo Tumore oft sehr nahe an lebenswichtigen Gehirnregionen liegen. Es wird auch wiederholte Operationen erlauben, bei denen das Trauma der traditionellen chirurgischen Operation nicht ohne inakzeptable Schäden wiederholt werden kann. Einige Forscher sind der Meinung, dass das Skalpell für Weichteilchirurgie bis zum Jahr 2010 als ein veraltetes Relikt angesehen werden könnte. Eine Menge Angst und viele der Nachbeben werden aus der Chirurgie genommen, wenn das zutrifft. Offensichtlich ist dies eine sehr gute Nachricht für den Patienten. Operationen, die jetzt Stunden dauern und denen Tage oder Wochen im Krankenhaus folgen, werden nur eine halbe Stunde dauern und vielleicht überhaupt keine Krankenhausaufnahme erfordern. Es wäre möglich, dass sich der Chirurg und der Patient nie im selben Raum befinden. Aber was wird das für Krankenhäuser und Chirurgen bedeuten?
 
-### Weniger Mikrochirurgen machen mehr.
+### Weniger Mikrochirurgen machen mehr
 
 Es wird eine Revolution in der Chirurgie geben. In der Ausbildung hat ein Drittel der jungen Chirurgen nicht die notwendigen Fertigkeiten für die Mikrochirurgie erworben. Ein Drittel schafft es gerade so, und ein Drittel ist hervorragend. Ähnliche Verhältnisse finden sich in Umschulungskursen für ältere Chirurgen. Weniger Chirurgen werden in der Lage sein, mehr Operationen in kürzerer Zeit durchzuführen. Es ist wahrscheinlich, dass Krankenkassen und Personen, die eine Operation suchen, auf Erfolgsstatistiken für jeden Chirurg bestehen werden, die recht unterschiedlich sein können. Patienten werden Chirurgen bevorzugen, die die besten Ergebnisse liefern, insbesondere wenn ihre Zustände lebensbedrohlich sind. In einigen Fällen können die besten Chirurgen sogar aus der Ferne operieren. Sie könnten die gesamte Operation aus einem anderen Rechtssystem heraus durchführen, in der die Steuern niedriger sind und Gerichte überhöhte Schadensersatzansprüche für Fehlverhalten nicht anerkennen.
 
@@ -198,10 +198,10 @@ Diese neue ökonomische Dynamik steht in direktem Gegensatz zu den Wunschvorstel
 
 Regierungen werden nicht nur ihre Macht verlieren, viele Arten von Einkommen und Vermögen zu besteuern; sie sind auch dazu bestimmt, ihr Machtmonopol über Geld zu verlieren. In der Vergangenheit waren megapolitische Übergänge mit Veränderungen in der Eigenschaft von Geld verbunden.
 
--   Die Einführung des Münzwesens trug dazu bei, den fünfhundertjährigen Expansionszyklus der antiken Wirtschaft einzuleiten, der mit der Geburt Christi und den niedrigsten Zinssätzen vor der Neuzeit seinen Höhepunkt erreichte.
--   Der Beginn des Dunklen Zeitalters fiel mit der faktischen Schließung der Münzstätten zusammen. Römische Münzen zirkulierten zwar weiterhin, aber die Geldmenge ging zusammen mit dem Handel in einer sich selbst verstärkenden Abwärtsspirale zurück.
--   Die feudale Revolution fiel mit der Wiedereinführung von Geld, Münzen, Wechseln und anderen Instrumenten zur Abwicklung von Handelsgeschäften zusammen. Insbesondere der Anstieg der europäischen Silberproduktion durch die neuen Minen am Rammelsberg in Deutschland ermöglichte eine Zunahme des Münzumlaufs, der den Handel ankurbelte.
--   Die größte Revolution des Geldes vor dem Informationszeitalter kam mit dem Aufkommen der Industrialisierung. In der Schießpulverrevolution festigte der frühneuzeitliche Staat seine Macht. In dem Maße, wie seine Kontrolle zunahm, machte der Staat seine Macht über das Geld geltend und stützte sich dabei in hohem Maße auf die charakteristische Technologie der Industrialisierung, die Druckerpresse. Das erste Instrument der Massenproduktion, die Druckerpresse, wurde von den Regierungen in der Neuzeit häufig zur Massenproduktion von Papiergeld eingesetzt.
+- Die Einführung des Münzwesens trug dazu bei, den fünfhundertjährigen Expansionszyklus der antiken Wirtschaft einzuleiten, der mit der Geburt Christi und den niedrigsten Zinssätzen vor der Neuzeit seinen Höhepunkt erreichte.
+- Der Beginn des Dunklen Zeitalters fiel mit der faktischen Schließung der Münzstätten zusammen. Römische Münzen zirkulierten zwar weiterhin, aber die Geldmenge ging zusammen mit dem Handel in einer sich selbst verstärkenden Abwärtsspirale zurück.
+- Die feudale Revolution fiel mit der Wiedereinführung von Geld, Münzen, Wechseln und anderen Instrumenten zur Abwicklung von Handelsgeschäften zusammen. Insbesondere der Anstieg der europäischen Silberproduktion durch die neuen Minen am Rammelsberg in Deutschland ermöglichte eine Zunahme des Münzumlaufs, der den Handel ankurbelte.
+- Die größte Revolution des Geldes vor dem Informationszeitalter kam mit dem Aufkommen der Industrialisierung. In der Schießpulverrevolution festigte der frühneuzeitliche Staat seine Macht. In dem Maße, wie seine Kontrolle zunahm, machte der Staat seine Macht über das Geld geltend und stützte sich dabei in hohem Maße auf die charakteristische Technologie der Industrialisierung, die Druckerpresse. Das erste Instrument der Massenproduktion, die Druckerpresse, wurde von den Regierungen in der Neuzeit häufig zur Massenproduktion von Papiergeld eingesetzt.
 
 Papiergeld ist ein eindeutig industrielles Produkt. Vor der Erfindung der Druckerpresse wäre es unpraktisch gewesen, Quittungen oder Zertifikate zu duplizieren, die zu Papiergeld wurden. Mönche in Skriptorien hätten ihre Zeit verschwendet, Fünfzig-Pfund-Noten zu zeichnen. Papiergeld hat auch erheblich zur Macht des Staates beigetragen, nicht nur durch Gewinne aus der Abwertung der Währung, sondern auch dadurch, dass der Staat Einfluss darauf hatte, wer Reichtum ansammeln konnte. Wie Abu-Lughod es formulierte: „Wenn Papiergeld, das vom Staat gedeckt wird, zur anerkannten Währung wird, wird es schwierig, Kapital entgegen oder unabhängig von den staatlichen Maschinerien anzuhäufen.“ [^260]
 
@@ -303,15 +303,15 @@ Es könnten erhebliche Effizienzsteigerungen erzielt werden, wenn weniger Ressou
 
 Würden Wähler bereitwillig auf politische Vorteile verzichten, an die sie sich gewöhnt haben? Das ist eine Frage, die wir an anderer Stelle ausführlich diskutieren. Aber eine einfache Antwort wäre, dass sie vielleicht keine Wahl haben. Niemand demonstriert jetzt gegen Regenwetter oder Dürre, egal wie wirtschaftlich schädlich oder unangenehm es sein mag. Niemand, egal wieviel kriminelle Energie er besitzt, hält einen Bettler als Geisel und fordert unter Todesdrohung ein hohes Lösegeld. Wenn es für Politiker unmöglich wird, Ressourcen zur Umverteilung zu erlangen, könnte die Öffentlichkeit rational reagieren und die Politik vergessen, genauso wie gut meinende Menschen aufgehört haben, Bußprozessionen zu organisieren, als das Mittelalter zu Ende ging.
 
-[^245]: Perry Barlow, „Thinking Locally, Acting Globally,“ Time, 15. Januar 1996, S. 57.
+[^245]: Perry Barlow, *Thinking Locally, Acting Globally*, Time, 15. Januar 1996, S. 57.
 
 [^246]: Ebenda.
 
-[^247]: M. C. Seymour, ed., Mandeville: Travels (Oxford: Oxford University Press, 1968), S. 122.
+[^247]: M. C. Seymour, ed., Mandeville: *Travels* (Oxford: Oxford University Press, 1968), S. 122.
 
-[^248]: R. C. Johnson, „The Transportation of Vagrant Children from London to Virginia, 1618-1622“, in H. S. Reinmuth, ed., Early Stuart Studies (Minneapolis: University of Minnesota Press, 1970), S. \~43-44, zitiert aus Jutte, ebenda, S. 168.
+[^248]: R. C. Johnson, *The Transportation of Vagrant Children from London to Virginia, 1618-1622*, in H. S. Reinmuth, ed., Early Stuart Studies (Minneapolis: University of Minnesota Press, 1970), S. \~43-44, zitiert aus Jutte, ebenda, S. 168.
 
-[^249]: John Dos Passos, The Big Money (New York: Harcourt, Brace & Co., 1936).
+[^249]: John Dos Passos, *The Big Money* (New York: Harcourt, Brace & Co., 1936).
 
 [^250]: Clarke, ebenda, S. 29.
 
@@ -323,19 +323,19 @@ Würden Wähler bereitwillig auf politische Vorteile verzichten, an die sie sich
 
 [^254]: Ebenda, S.21.
 
-[^255]: Lane, „Economic Consequences of Organized Violence“, ebenda, S. 404.
+[^255]: Lane, *Economic Consequences of Organized Violence*, ebenda, S. 404.
 
-[^256]: James Bennet, „The Information Revolution and the Demise of the Income Tax,“ Strategic Investment, November 1994, S. 11-12.
+[^256]: James Bennet, *The Information Revolution and the Demise of the Income Tax*, Strategic Investment, November 1994, S. 11-12.
 
-[^257]: Lane, „Economic Consequences of Organized Violence,“ ebenda, S. 404.
+[^257]: Lane, *Economic Consequences of Organized Violence*, ebenda, S. 404.
 
 [^258]: Abu-Lughod, ebenda, S. 177.
 
-[^259]: Zitiert aus Henry Mark Holzer, Governments\' Money Monopoly (New York: Books in Focus, 1981), S. 4.
+[^259]: Zitiert aus Henry Mark Holzer, *Governments\' Money Monopoly* (New York: Books in Focus, 1981), S. 4.
 
 [^260]: Abu-Lughod, ebenda., S. 332.
 
-[^261]: Friedrich A. von Hayek, The Denationalization of Money (London: Institute of Economic Affairs, 1976), S. 47.
+[^261]: Friedrich A. von Hayek, *The Denationalization of Money* (London: Institute of Economic Affairs, 1976), S. 47.
 
 [^262]: Siehe Kapitel 1, Anmerkung 6.
 
@@ -343,13 +343,13 @@ Würden Wähler bereitwillig auf politische Vorteile verzichten, an die sie sich
 
 [^264]: Ebenda.
 
-[^265]: Siehe Lawrence White, Free Banking in Britain (London: Institute of Economic Affairs, 1995).
+[^265]: Siehe Lawrence White, *Free Banking in Britain* (London: Institute of Economic Affairs, 1995).
 
-[^266]: Michael Prowse, „Bring Back Gold“, Financial Times, 5. Februar 1996, S. 12.
+[^266]: Michael Prowse, *Bring Back Gold*, Financial Times, 5. Februar 1996, S. 12.
 
 [^267]: Davidson und Rees-Mogg, ebenda, S. 203.
 
-[^268]: Lane, „Economic Consequences of Organized Violence,“ ebenda, S. 413.
+[^268]: Lane, *Economic Consequences of Organized Violence*, ebenda, S. 413.
 
 [^269]: Die Inflation hatte in der Industriezeit, als die Preise und Löhne nach unten hin unflexibel waren, eine weitere Verlockung. Eine mäßige Inflation erhöhte die Produktion, indem sie die Reallöhne und Preise senkte.
 

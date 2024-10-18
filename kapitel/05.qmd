@@ -46,7 +46,7 @@ Der Siegeszug des Staates als wichtigstes Mittel zur Organisation von Gewalt in 
 
 Staaten waren in den letzten zweihundert Jahren der Neuzeit die Norm. Aber im weiteren Verlauf der Geschichte waren Staaten selten. Ihre Lebensfähigkeit hing immer von außergewöhnlichen megapolitischen Bedingungen ab. Vor der Neuzeit waren die meisten Staaten „orientalische Despotien“, Agrargesellschaften in Wüsten, die für ihr Überleben auf die Kontrolle von Bewässerungssystemen angewiesen waren. Selbst das Römische Reich war durch seine Kontrolle über Ägypten und Nordafrika indirekt eine hydraulische Gesellschaft. Aber nicht genug, um zu überleben. Rom fehlte, wie den meisten vormodernen Staaten, letztlich die Fähigkeit, die Einhaltung des Gewaltmonopols zu erzwingen, das die Fähigkeit bietet, Menschen auszuhungern. Außerhalb Afrikas konnte der römische Staat das Wasser für den Ackerbau nicht abstellen, indem er ungehorsamen Menschen den Zugang zum Bewässerungssystem verwehrte. Solche hydraulischen Systeme lieferten mehr Druckmittel für Gewalt als jede andere megapolitische Konfiguration in der antiken Wirtschaft. Wer auch immer das Wasser in diesen Gesellschaften kontrollierte, konnte Beute in einer Größenordnung machen, die fast mit dem prozentualen Anteil an der Gesamtproduktion vergleichbar ist, den moderne Nationalstaaten absorbieren.[^169]
 
-**Größe vor Effizienz**
+### Größe vor Effizienz
 
 Das Schießpulver ermöglichte es den Staaten, sich leichter über die Grenzen der Reisfelder und trockenen Flusstäler hinaus auszudehnen. Die Beschaffenheit der Schießpulverwaffen und der Charakter der industriellen Wirtschaft führten zu erheblichen Größenvorteilen in der Kriegsführung. Dies führte zu hohen und steigenden Renditen für Gewalt. Der Historiker Charles Tilly drückte es so aus: „Staaten, die über die größten Zwangsmittel verfügten, neigten dazu, Kriege zu gewinnen; die Effizienz (das Verhältnis von Output zu Input) kam an zweiter Stelle nach der Effektivität (Gesamtoutput)“.[^170] Da die Regierungen meist in großem Maßstab organisiert waren, brauchten selbst die wenigen kleinen Souveränitäten, die überlebten, wie Monaco oder Andorra, die Anerkennung der größeren Staaten, um ihre Unabhängigkeit zu sichern. Nur große Regierungen, die über immer mehr Ressourcen verfügten, konnten auf dem Schlachtfeld konkurrieren.
 
@@ -134,9 +134,9 @@ Genau diese Tatsache verdeutlicht, wie die Ineffizienzen der Demokratie sie in e
 
 Wie konnte die von der Demokratie geförderte Ineffizienz zu einem Faktor ihres Erfolgs im Zeitalter der Gewalt werden? Der Schlüssel zum Entwirren dieses scheinbaren Paradoxons liegt in der Erkenntnis zweier Punkte:
 
-1.  Der Erfolg einer Souveränität in der Neuzeit lag nicht in der Schaffung von Reichtum, sondern in der Schaffung einer militärischen Macht, die in der Lage war, übermächtige Gewalt gegen jeden anderen Staat einzusetzen. Dazu brauchte man Geld, aber mit Geld allein konnte man keine Schlacht gewinnen. Die Herausforderung bestand nicht darin, ein System mit der effizientesten Wirtschaft oder der schnellsten Wachstumsrate zu schaffen, sondern ein System, das mehr Ressourcen abziehen und diese in das Militär lenken konnte. Militärausgaben sind naturgemäß ein Bereich, in dem der finanzielle Ertrag an sich gering oder gar nicht vorhanden ist.
+1. Der Erfolg einer Souveränität in der Neuzeit lag nicht in der Schaffung von Reichtum, sondern in der Schaffung einer militärischen Macht, die in der Lage war, übermächtige Gewalt gegen jeden anderen Staat einzusetzen. Dazu brauchte man Geld, aber mit Geld allein konnte man keine Schlacht gewinnen. Die Herausforderung bestand nicht darin, ein System mit der effizientesten Wirtschaft oder der schnellsten Wachstumsrate zu schaffen, sondern ein System, das mehr Ressourcen abziehen und diese in das Militär lenken konnte. Militärausgaben sind naturgemäß ein Bereich, in dem der finanzielle Ertrag an sich gering oder gar nicht vorhanden ist.
 
-2.  Der einfachste Weg, um die Erlaubnis zu erhalten, Gelder in Aktivitäten zu investieren, die wenig oder keinen direkten finanziellen Ertrag bringen, wie z. B. Steuerzahlungen, ist, jemanden um Erlaubnis zu bitten, der nicht die Person ist, deren Geld man begehrt. Einer der Gründe, warum die Niederländer Manhattan für Perlen im Wert von dreiundzwanzig Dollar kaufen konnten, war, dass die Indianer, denen sie das Angebot unterbreiteten, nicht diejenigen waren, denen es eigentlich gehörte. Unter diesen Bedingungen ist es viel einfacher, ein „Ja“ zu bekommen, wie die Marketingleute sagen. Nehmen wir zum Beispiel an, wir als Autoren dieses Buches wollten, dass Sie nicht den Einbandpreis, sondern 40 Prozent Ihres Jahreseinkommens für ein Exemplar zahlen. Es wäre viel wahrscheinlicher, dass wir die Erlaubnis dazu bekämen, wenn wir jemand anderen als Sie fragen würden. Tatsächlich wären wir weitaus überzeugender, wenn wir uns stattdessen auf die Zustimmung mehrerer Personen verlassen könnten, die Sie nicht einmal kennen. Wir könnten eine Ad-hoc-Wahl durchführen, was H. L. Mencken mit weniger Übertreibung als er dachte als „eine fortgeschrittene Versteigerung gestohlener Waren“ bezeichnete. Und um das Beispiel realistischer zu machen, würden wir uns bereit erklären, einen Teil des Geldes, das wir von Ihnen gesammelt haben, mit diesen anonymen Umstehenden im Austausch für ihre Unterstützung zu teilen.
+2. Der einfachste Weg, um die Erlaubnis zu erhalten, Gelder in Aktivitäten zu investieren, die wenig oder keinen direkten finanziellen Ertrag bringen, wie z. B. Steuerzahlungen, ist, jemanden um Erlaubnis zu bitten, der nicht die Person ist, deren Geld man begehrt. Einer der Gründe, warum die Niederländer Manhattan für Perlen im Wert von dreiundzwanzig Dollar kaufen konnten, war, dass die Indianer, denen sie das Angebot unterbreiteten, nicht diejenigen waren, denen es eigentlich gehörte. Unter diesen Bedingungen ist es viel einfacher, ein „Ja“ zu bekommen, wie die Marketingleute sagen. Nehmen wir zum Beispiel an, wir als Autoren dieses Buches wollten, dass Sie nicht den Einbandpreis, sondern 40 Prozent Ihres Jahreseinkommens für ein Exemplar zahlen. Es wäre viel wahrscheinlicher, dass wir die Erlaubnis dazu bekämen, wenn wir jemand anderen als Sie fragen würden. Tatsächlich wären wir weitaus überzeugender, wenn wir uns stattdessen auf die Zustimmung mehrerer Personen verlassen könnten, die Sie nicht einmal kennen. Wir könnten eine Ad-hoc-Wahl durchführen, was H. L. Mencken mit weniger Übertreibung als er dachte als „eine fortgeschrittene Versteigerung gestohlener Waren“ bezeichnete. Und um das Beispiel realistischer zu machen, würden wir uns bereit erklären, einen Teil des Geldes, das wir von Ihnen gesammelt haben, mit diesen anonymen Umstehenden im Austausch für ihre Unterstützung zu teilen.
 
 Das ist die Rolle, die der moderne demokratische Wohlfahrtsstaat zu erfüllen hat. Er war im Industriezeitalter ein unübertroffenes System, weil er dort, wo es darauf ankam, sowohl effizient als auch ineffizient war. Er kombinierte die Effizienz des Privateigentums und Anreize für die Schaffung von Wohlstand mit einem Mechanismus, der einen im Wesentlichen unkontrollierten Zugang zu diesem Wohlstand ermöglichte. Die Demokratie hielt die Taschen der Wohlstandsproduzenten offen. Militärisch war sie während der Hochphase steigender Gewaltrenditen in der Welt gerade deshalb erfolgreich, weil sie es den Kunden erschwerte, die von der Regierung erhobenen Steuern oder andere Möglichkeiten der Finanzierung der Ausgaben für das Militär, wie etwa die Inflation, wirksam zu beschränken.
 
@@ -190,15 +190,15 @@ Mit der demokratischen Entscheidungsfindung konnte der Nationalstaat seine Macht
 
 Ein entscheidender Beweis dafür war die Französische Revolution, die das Ausmaß der militärischen Gewalt auf dem Schlachtfeld erhöhte. Danach hatten andere konkurrierende Nationalstaaten kaum eine andere Wahl, als sich einer ähnlichen Organisation anzunähern, wobei die Legitimität letztlich an die demokratische Entscheidungsfindung gebunden war. Zusammenfassend lässt sich sagen, dass der demokratische Nationalstaat in den letzten zwei Jahrhunderten aus den folgenden, versteckten Gründen erfolgreich war:
 
-1.  Es gab steigende Renditen für Gewalt, so dass das Ausmaß der Gewalt wichtiger wurde als die Effizienz als Leitprinzip.
+1. Es gab steigende Renditen für Gewalt, so dass das Ausmaß der Gewalt wichtiger wurde als die Effizienz als Leitprinzip.
 
-2.  Die Einkommen stiegen so weit über das Existenzminimum, dass es dem Staat möglich wurde, große Mengen an Gesamtressourcen einzutreiben, ohne mit mächtigen Magnaten verhandeln zu müssen, die in der Lage waren, Widerstand zu leisten.
+2. Die Einkommen stiegen so weit über das Existenzminimum, dass es dem Staat möglich wurde, große Mengen an Gesamtressourcen einzutreiben, ohne mit mächtigen Magnaten verhandeln zu müssen, die in der Lage waren, Widerstand zu leisten.
 
-3.  Die Demokratie erwies sich als hinreichend kompatibel mit dem Funktionieren freier Märkte, um die Schaffung von immer mehr Wohlstand zu ermöglichen.
+3. Die Demokratie erwies sich als hinreichend kompatibel mit dem Funktionieren freier Märkte, um die Schaffung von immer mehr Wohlstand zu ermöglichen.
 
-4.  Die Demokratie erleichterte die Beherrschung der Regierung durch ihre „Angestellten“ und stellte damit sicher, dass es schwierig sein würde, die Ausgaben, einschließlich der Militärausgaben, zu kürzen.
+4. Die Demokratie erleichterte die Beherrschung der Regierung durch ihre „Angestellten“ und stellte damit sicher, dass es schwierig sein würde, die Ausgaben, einschließlich der Militärausgaben, zu kürzen.
 
-5.  Die Demokratie als Entscheidungsregel erwies sich als wirksames Gegenmittel gegen die Fähigkeit der Wohlhabenden, gemeinsam zu handeln, um die Fähigkeit des Nationalstaates zu beschränken, Steuern zu erheben oder ihr Vermögen auf andere Weise vor Übergriffen zu schützen.
+5. Die Demokratie als Entscheidungsregel erwies sich als wirksames Gegenmittel gegen die Fähigkeit der Wohlhabenden, gemeinsam zu handeln, um die Fähigkeit des Nationalstaates zu beschränken, Steuern zu erheben oder ihr Vermögen auf andere Weise vor Übergriffen zu schützen.
 
 Die Demokratie wurde zur militärisch siegreichen Strategie, weil sie es dem Staat erleichterte, mehr Ressourcen in seine Hände zu bekommen. Im Vergleich zu anderen Formen der Souveränität, deren Legitimität von anderen Prinzipien abhing, wie z. B. der Feudalabgabe, dem göttlichen Recht der Könige, der korporativen religiösen Pflicht oder den freiwilligen Beiträgen der Reichen, wurde die Massendemokratie militärisch am stärksten, weil sie der sicherste Weg war, um in einer industriellen Wirtschaft Ressourcen zu sammeln.
 
@@ -260,13 +260,13 @@ Als 1989 die Berliner Mauer fiel, bedeutete dies nicht nur das Ende des Kalten K
 
 [^163]: Zitiert in Tilly, ebenda, S. 84.
 
-[^164]: Siehe John Keegan, A History of Warfare (London: Hutchinson, 1993), S. 321.
+[^164]: Siehe John Keegan, *A History of Warfare* (London: Hutchinson, 1993), S. 321.
 
-[^165]: Jim Taylor und Watts Wacker, The 500-Year Delta: What Happens After What Comes Next, New York: HarperCollins, 1997, S. 38-39.
+[^165]: Jim Taylor und Watts Wacker, *The 500-Year Delta: What Happens After What Comes Next*, New York: HarperCollins, 1997, S. 38-39.
 
 [^166]: Ebenda, S. 39.
 
-[^167]: The Cambridge Ancient History, ebenda, S. 263-64.
+[^167]: *The Cambridge Ancient History*, ebenda, S. 263-64.
 
 [^168]: Cook et al., ebenda, S. 268.
 
@@ -274,7 +274,7 @@ Als 1989 die Berliner Mauer fiel, bedeutete dies nicht nur das Ende des Kalten K
 
 [^170]: Tilly, Ebenda, S.28.
 
-[^171]: Lane, „Consequences of Organized Violence“, ebenda, S. 406.
+[^171]: Lane, *Consequences of Organized Violence*, ebenda, S. 406.
 
 [^172]: Ebenda.
 
@@ -290,17 +290,17 @@ Als 1989 die Berliner Mauer fiel, bedeutete dies nicht nur das Ende des Kalten K
 
 [^178]: Ebenda., S. 115.
 
-[^179]: Siehe Mancur Olson, The Logic of Collective Action (Cambridge: Harvard University Press, 1965).
+[^179]: Siehe Mancur Olson, *The Logic of Collective Action* (Cambridge: Harvard University Press, 1965).
 
-[^180]: Josep R. Llobera,\_The God of Modernity: The Development of Nationalism in Western Europe (Oxford: Berg Publishers, 1994), S. ix-x.
+[^180]: Josep R. Llobera,*The God of Modernity: The Development of Nationalism in Western Europe* (Oxford: Berg Publishers, 1994), S. ix-x.
 
 [^181]: Ebenda., S. xiii.
 
-[^182]: Siehe William McNeill, Polyethnicity and National Unity in World History (Toronto: University of Toronto Press, 1986).
+[^182]: Siehe William McNeill, *Polyethnicity and National Unity in World History* (Toronto: University of Toronto Press, 1986).
 
 [^183]: Ebenda., S. 7.
 
-[^184]: Hernando de Soto, The Other Path (New York: Harper & Row, 1989).
+[^184]: Hernando de Soto, *The Other Path* (New York: Harper & Row, 1989).
 
 [^185]: Ebenda.
 
