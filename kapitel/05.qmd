@@ -1,6 +1,8 @@
 # DAS LEBEN UND DIE GESUNDHEIT DES NATIONENSTAATES
 
+:::{.content-hidden when-format=latex}
 *Demokratie und Nationalismus als Ressourcenstrategien im Zeitalter der Gewalt*
+:::
 
 > „Der Erfolg im Krieg hängt vor allem davon ab, dass man genug Geld hat, um alles zu beschaffen, was das Unternehmen braucht.“ [^163] - Robert de Balsac, 1502
 
@@ -303,3 +305,7 @@ Als 1989 die Berliner Mauer fiel, bedeutete dies nicht nur das Ende des Kalten K
 [^185]: Ebenda.
 
 [^186]: Ebenda., S .6.
+
+::: {.content-visible when-format=latex}
+\setsubtitle{Der Triumph der Effizienz über die Macht}
+:::

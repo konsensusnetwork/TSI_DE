@@ -261,3 +261,7 @@ Das war jedoch nicht immer so, wie eine Überprüfung der ersten großen Megapol
 [^49]: See Charles Woolsey Cole, *French Mercantilism: 1683-1700* (New York: Octagon Books, 197.1), S. 6.
 
 [^50]: Chris Scarre, ed., *Past Worlds: The Times Atlas of Archaeology* (New York: Random House, 1995), S. 58.
+
+::: {.content-visible when-format=latex}
+\setsubtitle{Die Landwirtschaftliche Revolution und die Kultivierung der Gewalt}
+:::

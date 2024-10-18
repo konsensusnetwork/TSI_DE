@@ -1,6 +1,8 @@
 # DAS ENDE DER EGALITÄREN ÖKONOMIE
 
+:::{.content-hidden when-format=latex}
 *Die Revolution der Einkommensfähigkeit in einer Welt ohne Arbeitsplätze*
+:::
 
 > „Gott lässt sich nicht spotten: Denn was der Mensch sät, das wird er ernten.“ - Galater 6:7
 
@@ -428,3 +430,7 @@ Wie wir im Folgenden untersuchen werden, wird die Frage, ob diese Entwicklungen 
 [^304]: Ebenda, S. 58.
 
 [^305]: Abu-Lughod, ebenda, S. 186.
+
+::: {.content-visible when-format=latex}
+\setsubtitle{}
+:::

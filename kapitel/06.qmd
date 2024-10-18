@@ -1,6 +1,8 @@
 # DIE MEGAPOLITIK DES INFORMATIONSZEITALTERS
 
+:::{.content-hidden when-format=latex}
 *Der Triumph der Effizienz über die Macht*
+:::
 
 > „...es ist die computergestützte Information, nicht die Arbeitskraft oder die Massenproduktion, die zunehmend die US-Wirtschaft antreibt und die in einer Welt, die für 500 Fernsehkanäle verdrahtet ist, Kriege gewinnen wird. Die computergestützte Information existiert im Cyberspace - die neue Dimension, die durch die endlose Reproduktion von Computernetzwerken, Satelliten, Modems, Datenbanken und dem öffentlichen Internet geschaffen wurde.“ [^187] - Neil Munro
 
@@ -492,3 +494,7 @@ Mit einem großen und wachsenden Anteil an Finanztransaktionen, die im Cyberspac
 [^244]: Beachten Sie, dass Lanes vier Stadien des Wettbewerbs und der Monopolisierung im Gebrauch von Gewalt sich von den vier Stadien in der Organisation des Wirtschaftslebens unterscheiden, die wir identifizieren, nämlich Sammeln und Jagen, Landwirtschaft, Industrialisierung und das Informationszeitalter.
 
 [^507]: Der Begriff Telekosmos bezieht sich in diesem Kontext auf das Buch „Telecosm: The World After Bandwidth Abundance” von George Gilder. Der Begriff hat sich im deutschen Sprachraum jedoch nicht auf die hier intendierte Weise durchgesetzt. Anm. d. Übers.
+
+::: {.content-visible when-format=latex}
+\setsubtitle{Das Aufkommen der Cyberökonomie}
+:::

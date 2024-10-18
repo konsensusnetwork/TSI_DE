@@ -198,12 +198,32 @@
 
 % TITLE FORMATTING
 \usepackage{titlesec}
+
+% Define chapter format with titlesec
 \titleformat
     {\chapter}[display]
-    {\huge\sffamily}
-    {\Large\sffamily\chaptertitlename\space\thechapter}
-    {0pt}
-    {\vspace{28pt}}
+    {\huge\sffamily} % Main title font style
+    {\Large\sffamily\chaptertitlename~\thechapter} % "Chapter N" format
+    {0pt} % Space between the chapter number and title
+    {\Huge} % Chapter title formatting
+    [\vspace{10pt}\Large\textit{\chaptersubtitle}] % Subtitle formatting
+
+% Command to set the subtitle (empty by default)
+\newcommand{\chaptersubtitle}{}
+
+% Automatically render the subtitle (if set) after the chapter title
+\titleformat{\chapter}[display]
+  {\huge\sffamily}
+  {\Large\sffamily\chaptertitlename\ \thechapter}
+  {0pt}
+  {\Huge}
+  [\ifx\chaptersubtitle\empty\else\vspace{10pt}\Large\textit{\chaptersubtitle}\fi]
+
+% Command to set subtitle manually after chapter rendering
+\newcommand{\setsubtitle}[1]{%
+  \renewcommand{\chaptersubtitle}{#1}%
+  \chaptermark{\chaptersubtitle} % Update subtitle for header/footer
+}
 
 \titleformat
   {\section}[block]

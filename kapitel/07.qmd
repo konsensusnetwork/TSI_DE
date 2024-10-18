@@ -1,6 +1,8 @@
 # DIE ÜBERWINDUNG DES RÄUMLICHEN
 
+:::{.content-hidden when-format=latex}
 *Das Aufkommen der Cyberökonomie*
+:::
 
 > „Das eigentliche Problem ist die Kontrolle. Das Internet ist zu weit verbreitet, um einfach so von einer einzelnen Regierung dominiert zu werden. Durch die Schaffung einer reibungslosen globalen Wirtschaftszone, die sowohl anti-souverän als auch unregulierbar ist, stellt das Internet die bloße Idee eines Nationalstaates in Frage.“ [^245] - John Perry Barlow
 
@@ -350,3 +352,7 @@ Würden Wähler bereitwillig auf politische Vorteile verzichten, an die sie sich
 [^268]: Lane, „Economic Consequences of Organized Violence,“ ebenda, S. 413.
 
 [^269]: Die Inflation hatte in der Industriezeit, als die Preise und Löhne nach unten hin unflexibel waren, eine weitere Verlockung. Eine mäßige Inflation erhöhte die Produktion, indem sie die Reallöhne und Preise senkte.
+
+::: {.content-visible when-format=latex}
+\setsubtitle{Die Revolution der Einkommensfähigkeit in einer Welt ohne Arbeitsplätze}
+:::

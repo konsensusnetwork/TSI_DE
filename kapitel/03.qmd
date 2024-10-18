@@ -1,8 +1,10 @@
 # ÖSTLICH VON EDEN
 
+:::{.content-hidden when-format=latex}
 *Die Landwirtschaftliche Revolution und die Kultivierung der Gewalt*
+:::
 
-> \“Und der Herr sprach zu Kain: Wo ist Abel, dein Bruder? Und er antwortete: Ich weiß es nicht: Bin ich meines Bruders Hüter? Und er sagte: Was hast du getan? Die Stimme des Blutes deines Bruders schreit zu mir aus dem Erdboden.\“ GENESIS 4:9-10
+> \“Und der Herr sprach zu Kain: Wo ist Abel, dein Bruder? Und er antwortete: Ich weiß es nicht: Bin ich meines Bruders Hüter? Und er sagte: Was hast du getan? Die Stimme des Blutes deines Bruders schreit zu mir aus dem Erdboden.\“ - GENESIS 4:9-10
 
 Vor fünfhundert Generationen begann die erste grundlegende Veränderung in der Organisation der menschlichen Gesellschaft.[^51] Unsere Vorfahren in mehreren Regionen haben widerwillig grobe Werkzeuge, geschärfte Pfähle und improvisierte Hacken aufgenommen und sind zur Arbeit gegangen. Als sie die ersten Kulturen säten, legten sie auch ein neues Fundament für die Macht in der Welt. Die Agrarrevolution war die erste große ökonomische und soziale Revolution. Sie begann mit der Vertreibung aus Eden und schritt so langsam voran, dass die Landwirtschaft zu Beginn des zwanzigsten Jahrhunderts das Jagen und Sammeln in allen geeigneten Gebieten der Welt noch nicht völlig verdrängt hatte. Experten glauben, dass selbst im Nahen Osten, wo die Landwirtschaft zuerst entstand, sie in einem „langen inkrementellen Prozess“ eingeführt wurde, der „möglicherweise fünftausend Jahre oder länger“ gedauert hat.[^52]
 
@@ -255,3 +257,7 @@ Viel mehr als sie es sich hätten vorstellen können, haben Bauern neue Bedingun
 [^92]: Bruce Ni. Metzger und Michael D. Coogan, eds., *The Oxford Companion to the Bible* (Oxford: Oxford University Press, 1993), p.178.
 
 [^93]: Boyden, ebenda, S. 118.
+
+::: {.content-visible when-format=latex}
+\setsubtitle{Parallelen zwischen dem altersschwachen Niedergang der Heiligen Mutter Kirche und dem Nanny-Staat}
+:::

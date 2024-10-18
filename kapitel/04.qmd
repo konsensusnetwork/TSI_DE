@@ -1,6 +1,8 @@
 # DIE LETZTEN TAGE DER POLITIK
 
+:::{.content-hidden when-format=latex}
 *Parallelen zwischen dem altersschwachen Niedergang der Heiligen Mutter Kirche und dem Nanny-Staat*
+:::
 
 > „Ich glaube auch - und hoffe, dass Politik und Wirtschaft in Zukunft nicht mehr so wichtig sein werden wie in der Vergangenheit; es wird die Zeit kommen, in der die meisten unserer heutigen Kontroversen über diese Themen so trivial und bedeutungslos erscheinen werden wie die theologischen Debatten, in denen die eifrigsten Köpfe des Mittelalters ihre Energien vergeudeten.“ [^94] Arthur C. Clarke
 
@@ -462,3 +464,7 @@ Das Ende des fünfzehnten Jahrhunderts war eine Zeit der Desillusionierung, der 
 [^161]: Ebenda., S. 27.
 
 [^162]: Ebenda., S. 22.
+
+::: {.content-visible when-format=latex}
+\setsubtitle{Demokratie und Nationalismus als Ressourcenstrategien im Zeitalter der Gewalt}
+:::
