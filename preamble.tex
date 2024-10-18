@@ -32,15 +32,16 @@
 % PHYSICAL DOCUMENT SETUP
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
-\setbinding{7mm}
-\setlrmarginsandblock{8mm}{13mm}{*}
-\setulmarginsandblock{17.5mm}{14mm}{*}
+\setbinding{8mm}
+\setlrmarginsandblock{15mm}{15mm}{*}
+\setulmarginsandblock{17.5mm}{15mm}{*}
+\setlength{\skip\footins}{25pt} % More space between the text and the footnote line
 
 % FONTS
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.80,
+    Scale=0.83,
     Extension=.OTF,
     UprightFont=*-Regular,
     BoldFont=*-SemiBd,
@@ -50,7 +51,7 @@
 
 \setsansfont{stone-sans}[
     Path=./fonts/stone-sans/,
-    Scale=0.80,
+    Scale=0.85,
     Extension=.otf,
     UprightFont=*-Medium,
     BoldFont=*-Semibold,

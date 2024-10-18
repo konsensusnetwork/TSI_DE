@@ -124,15 +124,16 @@
 % PHYSICAL DOCUMENT SETUP
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
-\setbinding{7mm}
-\setlrmarginsandblock{8mm}{13mm}{*}
-\setulmarginsandblock{17.5mm}{14mm}{*}
+\setbinding{8mm}
+\setlrmarginsandblock{15mm}{15mm}{*}
+\setulmarginsandblock{17.5mm}{15mm}{*}
+\setlength{\skip\footins}{25pt} % More space between the text and the footnote line
 
 % FONTS
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.80,
+    Scale=0.83,
     Extension=.OTF,
     UprightFont=*-Regular,
     BoldFont=*-SemiBd,
@@ -142,7 +143,7 @@
 
 \setsansfont{stone-sans}[
     Path=./fonts/stone-sans/,
-    Scale=0.80,
+    Scale=0.85,
     Extension=.otf,
     UprightFont=*-Medium,
     BoldFont=*-Semibold,
@@ -290,12 +291,32 @@
 
 % TITLE FORMATTING
 \usepackage{titlesec}
+
+% Define chapter format with titlesec
 \titleformat
     {\chapter}[display]
-    {\huge\sffamily}
-    {\Large\sffamily\chaptertitlename\space\thechapter}
-    {0pt}
-    {\vspace{28pt}}
+    {\huge\sffamily} % Main title font style
+    {\Large\sffamily\chaptertitlename~\thechapter} % "Chapter N" format
+    {0pt} % Space between the chapter number and title
+    {\Huge} % Chapter title formatting
+    [\vspace{10pt}\Large\textit{\chaptersubtitle}] % Subtitle formatting
+
+% Command to set the subtitle (empty by default)
+\newcommand{\chaptersubtitle}{}
+
+% Automatically render the subtitle (if set) after the chapter title
+\titleformat{\chapter}[display]
+  {\huge\sffamily}
+  {\Large\sffamily\chaptertitlename\ \thechapter}
+  {0pt}
+  {\Huge}
+  [\ifx\chaptersubtitle\empty\else\vspace{10pt}\Large\textit{\chaptersubtitle}\fi]
+
+% Command to set subtitle manually after chapter rendering
+\newcommand{\setsubtitle}[1]{%
+  \renewcommand{\chaptersubtitle}{#1}%
+  \chaptermark{\chaptersubtitle} % Update subtitle for header/footer
+}
 
 \titleformat
   {\section}[block]
@@ -3776,18 +3797,17 @@ als die führende megapolitische Variable an Bedeutung zunehmen.
 Das war jedoch nicht immer so, wie eine Überprüfung der ersten großen
 Megapolitik-Transformation, der Agrarrevolution, klar zeigt.
 
+\setsubtitle{Die Landwirtschaftliche Revolution und die Kultivierung der Gewalt}
+
 \bookmarksetup{startatroot}
 
 \chapter{ÖSTLICH VON EDEN}\label{uxf6stlich-von-eden}
-
-\emph{Die Landwirtschaftliche Revolution und die Kultivierung der
-Gewalt}
 
 \begin{quote}
 ``Und der Herr sprach zu Kain: Wo ist Abel, dein Bruder? Und er
 antwortete: Ich weiß es nicht: Bin ich meines Bruders Hüter? Und er
 sagte: Was hast du getan? Die Stimme des Blutes deines Bruders schreit
-zu mir aus dem Erdboden.`` GENESIS 4:9-10
+zu mir aus dem Erdboden.`` - GENESIS 4:9-10
 \end{quote}
 
 Vor fünfhundert Generationen begann die erste grundlegende Veränderung
@@ -4950,13 +4970,12 @@ aus Gewalt und erhöhte dramatisch die Herausforderung, Vermögenswerte zu
 schützen. Die Landwirtschaft machte sowohl Kriminalität als auch
 Regierungen zum ersten Mal zu lohnenden Unternehmungen.
 
+\setsubtitle{Parallelen zwischen dem altersschwachen Niedergang der Heiligen Mutter Kirche und dem Nanny-Staat}
+
 \bookmarksetup{startatroot}
 
 \chapter{DIE LETZTEN TAGE DER
 POLITIK}\label{die-letzten-tage-der-politik}
-
-\emph{Parallelen zwischen dem altersschwachen Niedergang der Heiligen
-Mutter Kirche und dem Nanny-Staat}
 
 \begin{quote}
 „Ich glaube auch - und hoffe, dass Politik und Wirtschaft in Zukunft
@@ -6703,13 +6722,12 @@ Das Ende des fünfzehnten Jahrhunderts war eine Zeit der
 Desillusionierung, der Verwirrung, des Pessimismus und der Verzweiflung.
 Eine Zeit, die der heutigen sehr ähnlich ist.
 
+\setsubtitle{Demokratie und Nationalismus als Ressourcenstrategien im Zeitalter der Gewalt}
+
 \bookmarksetup{startatroot}
 
 \chapter{DAS LEBEN UND DIE GESUNDHEIT DES
 NATIONENSTAATES}\label{das-leben-und-die-gesundheit-des-nationenstaates}
-
-\emph{Demokratie und Nationalismus als Ressourcenstrategien im Zeitalter
-der Gewalt}
 
 \begin{quote}
 „Der Erfolg im Krieg hängt vor allem davon ab, dass man genug Geld hat,
@@ -8083,12 +8101,12 @@ zunehmenden Ungleichgewichte bei der Anwendung von Gewalt
 widerzuspiegeln. Die Grenzen, innerhalb derer die Zukunft liegen muss,
 sind neu gezogen worden.
 
+\setsubtitle{Der Triumph der Effizienz über die Macht}
+
 \bookmarksetup{startatroot}
 
 \chapter{DIE MEGAPOLITIK DES
 INFORMATIONSZEITALTERS}\label{die-megapolitik-des-informationszeitalters}
-
-\emph{Der Triumph der Effizienz über die Macht}
 
 \begin{quote}
 „\ldots es ist die computergestützte Information, nicht die Arbeitskraft
@@ -10430,12 +10448,12 @@ verändern und Volkswirtschaften umgestalten, da das Gleichgewicht
 zwischen Schutz und Erpressung stärker auf die Seite des Schutzes
 schwingt, als es jemals zuvor der Fall war.
 
+\setsubtitle{Das Aufkommen der Cyberökonomie}
+
 \bookmarksetup{startatroot}
 
 \chapter{DIE ÜBERWINDUNG DES
 RÄUMLICHEN}\label{die-uxfcberwindung-des-ruxe4umlichen}
-
-\emph{Das Aufkommen der Cyberökonomie}
 
 \begin{quote}
 „Das eigentliche Problem ist die Kontrolle. Das Internet ist zu weit
@@ -11989,13 +12007,12 @@ und die Politik vergessen, genauso wie gut meinende Menschen aufgehört
 haben, Bußprozessionen zu organisieren, als das Mittelalter zu Ende
 ging.
 
+\setsubtitle{Die Revolution der Einkommensfähigkeit in einer Welt ohne Arbeitsplätze}
+
 \bookmarksetup{startatroot}
 
 \chapter{DAS ENDE DER EGALITÄREN
 ÖKONOMIE}\label{das-ende-der-egalituxe4ren-uxf6konomie}
-
-\emph{Die Revolution der Einkommensfähigkeit in einer Welt ohne
-Arbeitsplätze}
 
 \begin{quote}
 „Gott lässt sich nicht spotten: Denn was der Mensch sät, das wird er
@@ -13782,6 +13799,8 @@ Wie wir im Folgenden untersuchen werden, wird die Frage, ob diese
 Entwicklungen gegen den Widerstand von Legionen von Verlierern
 fortgesetzt werden können oder sollten, zu den wichtigsten Kontroversen
 des Informationszeitalters gehören.
+
+\setsubtitle{}
 
 \bookmarksetup{startatroot}
 
