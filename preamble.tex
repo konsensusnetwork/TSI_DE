@@ -12,7 +12,7 @@
 % DEFINITIONS TITLE PAGE / COPYRIGHT
 \newcommand{\titleoriginal}{The Sovereign Individual}
 \newcommand{\subtitleoriginal}{Mastering the Transition to the Information Age}
-\newcommand{\yearoriginal}{2023}
+\newcommand{\yearoriginal}{1999}
 \newcommand{\subtitletranslation}{Der Übergang zum Informationszeitalter}
 \newcommand{\yeartranslation}{2024}
 \newcommand{\stringtranslation}{Übersetzung}
@@ -34,8 +34,8 @@
 \settrimmedsize{210mm}{148mm}{*}
 \setbinding{7mm}
 \setlrmarginsandblock{15mm}{15mm}{*}
-\setulmarginsandblock{15mm}{16mm}{*}
-\setlength{\skip\footins}{20pt} % More space between the text and the footnote line
+\setulmarginsandblock{16mm}{16mm}{*}
+\setlength{\skip\footins}{24pt} % More space between the text and the footnote line
 
 % FONTS
 \usepackage{fontspec}
@@ -90,14 +90,14 @@
   \setlength\drop{0.15\textheight}
   \begin{center}
   \vspace*{\drop}
-  {\huge\sffamily\thetitle\par}
+  {\HUGE\sffamily\thetitle\par}
   \vspace{2em}
-  {\normalsize\sffamily\textit\subtitletranslation\par}
-  \vspace{2em}
+  {\Large\sffamily\textit\subtitletranslation\par}
+  \vspace{4em}
   \rule{5.5cm}{0.3mm}\par
-  \vspace{2em}
+  \vspace{4em}
   {\Large\sffamily\textit\theauthor\par}
-  \vspace{3em}
+  \vspace{6em}
   {\footnotesize\sffamily\textit\translators\par}
   \vfill
   \includegraphics[width=3.5cm]{figures/knw.png}\par
@@ -111,7 +111,7 @@
   \setlength\drop{0.1\textheight}
   \vphantom{just for the drop}
   \vfill
-  \begin{scriptsize}
+  \begin{footnotesize}
   \noindent \copyright\space \yearoriginal: \theauthor
   \par\noindent \textit{\titleoriginal: \subtitleoriginal}
   \vspace{0.5\baselineskip}
@@ -129,9 +129,9 @@
   \par\hspace{0.28\parindent}\ISBNSC \:Paperback
   \par\hspace{0.28\parindent}\ISBNEBOOK \:E-book\par
   \setlength{\parindent}{0pt}
-  \end{scriptsize}
+  \end{footnotesize}
   \vspace{3em}
-  \par\noindent \href{https://konsensus.network}{\large\MakeUppercase \press \hspace{3em} \includegraphics[width=1cm]{figures/freestarfish.png}}
+  \par\noindent \href{https://konsensus.network}{\includegraphics[width=1cm]{figures/freestarfish.png} \hspace{3em} \large\bfseries\MakeUppercase\press}
   \setcounter{footnote}{0}
   \clearpage
 \endgroup}
