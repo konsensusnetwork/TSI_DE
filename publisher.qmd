@@ -1,5 +1,5 @@
 ---
-title: "Finley Malloc"
+title: "Konsensus Network"
 about:
   template: jolla
   image: /figures/freestarfish.png
@@ -14,18 +14,8 @@ about:
       href: https://github.com/konsensusnetwork
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Konsensus Network was founded in 2019 with the purpose of publishing the Finnish translation of The Bitcoin Standard by Saifedean Ammous. We gathered a group of freedom-loving volunteers who were passionate about bitcoin, and we rose to the occasion.
 
-## Education
+FiveFour years later, and we have expanded from translations to original titles on bitcoin and economics, with nearly 100 books under our belt. We now operate as a hub between authors, license holders, translators, distributors, and production channels.
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+The next phase in our evolution is to champion freedom, not just bitcoin. This includes the ideals of Austrian economics, libertarianism, privacy, and thought-provoking futuristic fiction.

@@ -54,15 +54,15 @@ Es wird sofort deutlich, dass hohe und niedrige Werte beide vergleichsweise selt
 
 Otto Ammon argumentierte, dass diese zufällige Verteilung von Würfelwürfen der Verteilung menschlicher Fähigkeiten entsprach. Er schrieb dies, bevor die Entwicklung von Intelligenztests und IQs stattfand, und stützte sich auf die früheren Arbeiten über Intelligenz von Francis Galton. Ammon war nicht der Meinung, dass sozialer Nutzen oder Erfolg im Leben einfach von der Intelligenz abhing. Er listete „drei Gruppen von geistigen Eigenschaften auf, die weitgehend darüber entscheiden, welchen Platz ein Mann im Leben einnehmen wird“. Diese lauteten:
 
-1.  *Geistige Eigenschaften*; hierzu zählte ich alles, was zur rationalen Seite der menschlichen Fähigkeiten gehört, wie schnelle Auffassungsgabe, Gedächtnis, Urteilsvermögen, Erfindungsgeist und alles andere, was zu diesem Gebiet gehört.
+1. *Geistige Eigenschaften*; hierzu zählte ich alles, was zur rationalen Seite der menschlichen Fähigkeiten gehört, wie schnelle Auffassungsgabe, Gedächtnis, Urteilsvermögen, Erfindungsgeist und alles andere, was zu diesem Gebiet gehört.
 
-2.  *Moralische Eigenschaften*; nämlich Selbstkontrolle, Willenskraft, Fleiß, Ausdauer, Mäßigung, Beachtung der familiären Verpflichtungen, Ehrlichkeit und dergleichen.
+2. *Moralische Eigenschaften*; nämlich Selbstkontrolle, Willenskraft, Fleiß, Ausdauer, Mäßigung, Beachtung der familiären Verpflichtungen, Ehrlichkeit und dergleichen.
 
-3.  *Wirtschaftliche Merkmale*; wie unternehmerische Fähigkeiten, organisatorisches Talent, technisches Können, Vorsicht, kluge Kalkulation, Weitblick, Sparsamkeit und so weiter.
+3. *Wirtschaftliche Merkmale*; wie unternehmerische Fähigkeiten, organisatorisches Talent, technisches Können, Vorsicht, kluge Kalkulation, Weitblick, Sparsamkeit und so weiter.
 
 Zu diesen geistigen Merkmalen fügte er hinzu:
 
-4.  *Körperliche Eigenschaften*; Arbeitskraft, Ausdauer, die Fähigkeit, Anstrengungen zu ertragen und Erregungen jeder Art zu widerstehen, Vitalität, Gesundheit, usw.
+4. *Körperliche Eigenschaften*; Arbeitskraft, Ausdauer, die Fähigkeit, Anstrengungen zu ertragen und Erregungen jeder Art zu widerstehen, Vitalität, Gesundheit, usw.
 
 In Otto Ammons Sichtweise entsprach die wahrscheinliche Verteilung dieser Qualitäten von Intelligenz, Charakter, Talent und Körper den Punktzahlen im Würfelspiel. Er ging sogar noch weiter und argumentierte, dass es tatsächlich viel mehr als vier Variablen gab und dass diese in mehr als sechs Stufen variierten. Würde man anstelle von vier Würfeln acht werfen, dann gäbe es nicht weniger als 1.679.616 mögliche Würfe, aber man könnte erwarten, dass die höchste Punktzahl, achtundvierzig, nur einmal auftritt. Der Mann oder die Frau, die in all den Faktoren, die den Platz im Leben bestimmen, sehr hoch abschneiden, sind viel seltener als die Wahrscheinlichkeit, vier Sechser zu werfen, nahelegen würde; vielleicht so selten wie das Werfen von acht Sechsern. Dennoch merkt Ammon an, dass eine Mischung aus hohen und niedrigen Punktzahlen in diesen menschlichen Qualitäten „Personen mit unausgeglichenen, unharmonischen Gaben“ hervorbringen kann, die „trotz einiger brillanter Eigenschaften die Prüfungen des Lebens nicht erfolgreich bestehen können.“
 
@@ -338,18 +338,18 @@ Die vollen Auswirkungen dieser Veränderungen werden durch veraltete Regulierung
 
 Es gibt weitere Implikationen der Verschiebung hin zu einer Informationswirtschaft:
 
--   Lokale Vorschriften, die höhere Kosten verursachen, werden auf eine Marktbasis umgestellt.
--   Der Wettbewerb zwischen den einzelnen Ländern um die Ansiedlung von Tätigkeiten mit hoher Wertschöpfung, die im Prinzip überall angesiedelt werden könnten, wird sich verschärfen. Kein Knotenpunkt ist zwangsläufig attraktiver als ein anderer.
--   Die Geschäftsbeziehungen werden sich zunehmend auf „Vertrauenskreise“ stützen. Aufgrund der Verschlüsselung, die es Individuen ermöglicht, unbemerkt zu stehlen, wird Ehrlichkeit eine hoch geschätzte Eigenschaft von Geschäftspartnern sein.
--   Patent- und Urheberrechtsregelungen werden sich aufgrund des leichten Zugangs zu bestimmten Informationen ändern.
--   Schutz wird zunehmend technologisch und nicht mehr juristisch sein. Die unteren Klassen werden abgeschottet. Der Übergang zu „Gated Communities“ ist nahezu unvermeidlich. Die Ausgrenzung von Unruhestiftern ist ein wirksames und traditionelles Mittel zur Minimierung krimineller Gewalt in Zeiten schwacher zentraler Autorität.
--   Massengüter werden wie im Mittelalter stark besteuert und lokal verschickt, während Luxusgüter gering besteuert und über große Entfernungen verschickt werden.[^305]
--   Die polizeilichen Aufgaben werden zunehmend von privaten Wächtern übernommen, die mit Handelsvereinigungen verbunden sind.
--   In der Übergangsphase könnten private Unternehmen gegenüber börsennotierten Firmen im Vorteil sein, da private Unternehmen einen größeren Spielraum haben, um den von den Regierungen auferlegten Kosten zu entgehen.
--   Die Beschäftigung auf Lebenszeit wird verschwinden, da „Arbeitsplätze“ zunehmend zu Aufgaben oder „Zeitarbeit“ werden und nicht mehr zu Positionen innerhalb einer Organisation.
--   Die Kontrolle über die wirtschaftlichen Ressourcen wird sich vom Staat auf Personen mit überdurchschnittlichen Fähigkeiten und Intelligenz verlagern, da es immer einfacher wird, Wohlstand zu schaffen, indem man den Produkten Wissen hinzufügt.
--   Viele Angehörige erlernter Berufe werden durch interaktive Informationsbeschaffungssysteme verdrängt werden.
--   Personen mit geringerer Intelligenz werden neue Überlebensstrategien entwickeln, die eine stärkere Konzentration auf die Entwicklung von Freizeitbeschäftigungen, sportlichen Fähigkeiten und Kriminalität sowie den Dienst an der wachsenden Zahl souveräner Individuen beinhalten, da die Einkommensungleichheit innerhalb der Gerichtsbarkeiten zunimmt.
+- Lokale Vorschriften, die höhere Kosten verursachen, werden auf eine Marktbasis umgestellt.
+- Der Wettbewerb zwischen den einzelnen Ländern um die Ansiedlung von Tätigkeiten mit hoher Wertschöpfung, die im Prinzip überall angesiedelt werden könnten, wird sich verschärfen. Kein Knotenpunkt ist zwangsläufig attraktiver als ein anderer.
+- Die Geschäftsbeziehungen werden sich zunehmend auf „Vertrauenskreise“ stützen. Aufgrund der Verschlüsselung, die es Individuen ermöglicht, unbemerkt zu stehlen, wird Ehrlichkeit eine hoch geschätzte Eigenschaft von Geschäftspartnern sein.
+- Patent- und Urheberrechtsregelungen werden sich aufgrund des leichten Zugangs zu bestimmten Informationen ändern.
+- Schutz wird zunehmend technologisch und nicht mehr juristisch sein. Die unteren Klassen werden abgeschottet. Der Übergang zu „Gated Communities“ ist nahezu unvermeidlich. Die Ausgrenzung von Unruhestiftern ist ein wirksames und traditionelles Mittel zur Minimierung krimineller Gewalt in Zeiten schwacher zentraler Autorität.
+- Massengüter werden wie im Mittelalter stark besteuert und lokal verschickt, während Luxusgüter gering besteuert und über große Entfernungen verschickt werden.[^305]
+- Die polizeilichen Aufgaben werden zunehmend von privaten Wächtern übernommen, die mit Handelsvereinigungen verbunden sind.
+- In der Übergangsphase könnten private Unternehmen gegenüber börsennotierten Firmen im Vorteil sein, da private Unternehmen einen größeren Spielraum haben, um den von den Regierungen auferlegten Kosten zu entgehen.
+- Die Beschäftigung auf Lebenszeit wird verschwinden, da „Arbeitsplätze“ zunehmend zu Aufgaben oder „Zeitarbeit“ werden und nicht mehr zu Positionen innerhalb einer Organisation.
+- Die Kontrolle über die wirtschaftlichen Ressourcen wird sich vom Staat auf Personen mit überdurchschnittlichen Fähigkeiten und Intelligenz verlagern, da es immer einfacher wird, Wohlstand zu schaffen, indem man den Produkten Wissen hinzufügt.
+- Viele Angehörige erlernter Berufe werden durch interaktive Informationsbeschaffungssysteme verdrängt werden.
+- Personen mit geringerer Intelligenz werden neue Überlebensstrategien entwickeln, die eine stärkere Konzentration auf die Entwicklung von Freizeitbeschäftigungen, sportlichen Fähigkeiten und Kriminalität sowie den Dienst an der wachsenden Zahl souveräner Individuen beinhalten, da die Einkommensungleichheit innerhalb der Gerichtsbarkeiten zunimmt.
 
 Politische Systeme, die sich in einer Zeit entwickelt haben, in der die Gewaltzunahme im Vordergrund stand, müssen schmerzhafte Anpassungen durchlaufen. Da Effizienz gegenüber der Macht eines Systems immer wichtiger wird, werden kleine, effiziente Souveränitäten, die ihren Bürgern mehr Schutz zu geringeren Kosten bieten, immer nachhaltiger.
 
@@ -359,39 +359,39 @@ Die Macht wird erneut auf kleinster Ebene ausgeübt. Enklaven und Provinzen kön
 
 Wie wir im Folgenden untersuchen werden, wird die Frage, ob diese Entwicklungen gegen den Widerstand von Legionen von Verlierern fortgesetzt werden können oder sollten, zu den wichtigsten Kontroversen des Informationszeitalters gehören.
 
-[^270]: Benjamin Schwarz, „\~American Inequality: Its History and Scary Future“, New York Times, 19. Dezember 1995, S. A25.
+[^270]: Benjamin Schwarz, *\~American Inequality: Its History and Scary Future*, New York Times, 19. Dezember 1995, S. A25.
 
-[^271]: Adna Ferrin Weber, The Growth of Cities in the Nineteenth Century (New York: Macmillan, 1899; Neuauflage von Cornell University Press, 1963), S. 249.
+[^271]: Adna Ferrin Weber, *The Growth of Cities in the Nineteenth Century* (New York: Macmillan, 1899; Neuauflage von Cornell University Press, 1963), S. 249.
 
-[^272]: Bill Bryson, The Lost Continent (New York: Harper Perennial, 1989), S. 72.
+[^272]: Bill Bryson, *The Lost Continent* (New York: Harper Perennial, 1989), S. 72.
 
-[^273]: Dieser Artikel erschien in der 4. Auflage von Adrian Darnell\'s collection, Early Mathematical Economists, 6 vols. (London: Pickering & Chatto, 1991).
+[^273]: Dieser Artikel erschien in der 4. Auflage von Adrian Darnell\'s collection, *Early Mathematical Economists*, 6 vols. (London: Pickering & Chatto, 1991).
 
 [^274]: Siehe z.B. Weber, ebenda, S. 2.
 
-[^275]: Clive Jenkins und Barrie Sherman, The Collapse of Work (London: Methuen, 1979), S. 103.
+[^275]: Clive Jenkins und Barrie Sherman, *The Collapse of Work* (London: Methuen, 1979), S. 103.
 
-[^276]: Robert H. Frank and Philip J. Cook, The Winner-Take-All Societv (New York: The Free Press, 1995).
+[^276]: Robert H. Frank and Philip J. Cook, *The Winner-Take-All Society* (New York: The Free Press, 1995).
 
-[^277]: Clay Chandler, „Buchanan\'s Success Frightens Business,“ Washington Post, 22. Februar 1996, S. D12.
+[^277]: Clay Chandler, *Buchanan\'s Success Frightens Business*, Washington Post, 22. Februar 1996, S. D12.
 
-[^278]: Stephanie Flanders und Martin Wolfe, „Haunted by the Trade Spectre“, Financial Times, 24. Juli 1995, S. 11. Sie zitieren den jüngsten Bericht der Weltentwicklung der Weltbank über Arbeiter in einer integrierten Weltwirtschaft.
+[^278]: Stephanie Flanders und Martin Wolfe, *Haunted by the Trade Spectre*, Financial Times, 24. Juli 1995, S. 11. Sie zitieren den jüngsten Bericht der Weltentwicklung der Weltbank über Arbeiter in einer integrierten Weltwirtschaft.
 
-[^279]: Siehe Mancur Olson, „Diseconomies of Scale and Development“, Cato Journal, vol.7, no.1 (Spring/Summer 1987).
+[^279]: Siehe Mancur Olson, *Diseconomies of Scale and Development*, Cato Journal, vol.7, no.1 (Spring/Summer 1987).
 
 [^280]: Ebenda
 
-[^281]: Basil Davidson, The Black Mans\' Burden: Africa and the Curse of the Nation State (New York: Times Books, 1992), S. 290.
+[^281]: Basil Davidson, *The Black Mans\' Burden: Africa and the Curse of the Nation State* (New York: Times Books, 1992), S. 290.
 
 [^282]: Olson, ebenda.
 
-[^283]: Adam Smith, The Wealth of Nations, S. 724. Dieser Punkt wurde durch ein Argument von Edwin G. West vorgeschlagen in Adam Smith and Modern Economics (Aldershot, England: Edward Elgar Publishing, 1990), S. 88-89.
+[^283]: Adam Smith, *The Wealth of Nations*, S. 724. Dieser Punkt wurde durch ein Argument von Edwin G. West vorgeschlagen in *Adam Smith and Modern Economics* (Aldershot, England: Edward Elgar Publishing, 1990), S. 88-89.
 
-[^284]: Fritz Rorig, The Medieval Town (Berkeley: University of California Press, 1967), S. 28.
+[^284]: Fritz Rorig, *The Medieval Town* (Berkeley: University of California Press, 1967), S. 28.
 
-[^285]: Albert O. Hirschman, Exit, Voice, and Loyalty (Cambridge: Harvard University Press, 1969), S. 81.
+[^285]: Albert O. Hirschman, *Exit, Voice, and Loyalty* (Cambridge: Harvard University Press, 1969), S. 81.
 
-[^286]: Tom Peters und George Gilder, „City vs. Country: Tom Peters & George Gilder Debate the Impact of Technology on Location“, Forbes, Februar 1995.
+[^286]: Tom Peters und George Gilder, *City vs. Country: Tom Peters & George Gilder Debate the Impact of Technology on Location*, Forbes, Februar 1995.
 
 [^287]: Weber, ebenda, S. 21.
 
@@ -409,21 +409,21 @@ Wie wir im Folgenden untersuchen werden, wird die Frage, ob diese Entwicklungen 
 
 [^294]: Ebenda, S. 5.
 
-[^295]: Siehe Ronald Coase, „The Nature of the Firm“, Neuauflage in Louis Putterman und Randall S. Kroszner, eds., The Economic Nature of the Firm: A Reader 2nd ed. (Cambridge: Cambridge University Press, 1996), S. 89-104.
+[^295]: Siehe Ronald Coase, *The Nature of the Firm*, Neuauflage in Louis Putterman und Randall S. Kroszner, eds., *The Economic Nature of the Firm: A Reader* 2nd ed. (Cambridge: Cambridge University Press, 1996), S. 89-104.
 
-[^296]: Zitiert von West, ebenda, S. 58; siehe außerdem Oliver E. Williamson, „The Organization of Work: A Comparative Insititutional Assessment,“ Journal of Economic Behaviour and Organisation, vol.1, no.1.
+[^296]: Zitiert von West, ebenda, S. 58; siehe außerdem Oliver E. Williamson, *The Organization of Work: A Comparative Insititutional Assessment*, Journal of Economic Behaviour and Organisation, vol.1, no.1.
 
 [^297]: Zitiert von West, ebenda, S. 59; siehe außerdem Williamson, ebenda.
 
-[^298]: Richard Cyert und James March, A Behavioral Theory of the Firm (Englewood Cliffs, N.J.: Prentice-Hall, 1983).
+[^298]: Richard Cyert und James March, *A Behavioral Theory of the Firm* (Englewood Cliffs, N.J.: Prentice-Hall, 1983).
 
-[^299]: Chris Dray\~ „Civil Servants Lead Lives of Quiet Collusion“, Globe and Mail, 2. Februar 1996, S. A14.
+[^299]: Chris Dray\~ *Civil Servants Lead Lives of Quiet Collusion*, Globe and Mail, 2. Februar 1996, S. A14.
 
-[^300]: William Bridges, Jobsh ft: How to Prosper in a Workplace Without Jobs (Reading, Mass.: Addison-Wesley, 1994), S. 62, 64.
+[^300]: William Bridges, *Jobshift: How to Prosper in a Workplace Without Jobs* (Reading, Mass.: Addison-Wesley, 1994), S. 62, 64.
 
-[^301]: Siehe Al Ehrbar, „'Re-Engineering' Gives Firms New Efficiency, Workers the Pink Slip“, Wall Street Journal, 22. Juli 1992, S. A14, zitiert durch Bridges, ebenda, S. 39.
+[^301]: Siehe Al Ehrbar, *'Re-Engineering' Gives Firms New Efficiency, Workers the Pink Slip*, Wall Street Journal, 22. Juli 1992, S. A14, zitiert durch Bridges, ebenda, S. 39.
 
-[^302]: Sheryl WuDunn, „Parting Is Such Sour Sorrow: Japan\'s Job-for-Life Culture Painfully Expires“, International Herald Tribune, 13. Juni 1996, S. 13.
+[^302]: Sheryl WuDunn, *Parting Is Such Sour Sorrow: Japan\'s Job-for-Life Culture Painfully Expires*, International Herald Tribune, 13. Juni 1996, S. 13.
 
 [^303]: Bridges, ebenda, S. 31-32.
 
