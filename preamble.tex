@@ -33,9 +33,9 @@
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
 \setbinding{7mm}
-\setlrmarginsandblock{15mm}{15mm}{*}
+\setlrmarginsandblock{15mm}{16mm}{*}
 \setulmarginsandblock{16mm}{16mm}{*}
-\setlength{\skip\footins}{24pt} % More space between the text and the footnote line
+\setlength{\skip\footins}{18pt} % More space between the text and the footnote line
 
 % FONTS
 \usepackage{fontspec}
@@ -66,8 +66,6 @@
 \renewcommand{\LettrineTextFont}{}
 \setlength{\DefaultFindent}{\fontdimen2\font}
 \setlength{\DefaultNindent}{0em}
-
-%\usepackage[footskip=8mm]{geometry}
 
 % custom second title page
 \makeatletter
@@ -140,10 +138,10 @@
 % HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
-\headsep = 3mm
+\headsep = 4mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
-\makeoddhead{mystyle}{{\scriptsize\sffamily\mdseries\leftmark}}{}{\scriptsize\sffamily\mdseries\thepage}
+\makeoddhead{mystyle}{\scriptsize\sffamily\mdseries\leftmark}{}{\scriptsize\sffamily\mdseries\thepage}
 \makeevenfoot{mystyle}{}{}{}
 \makeoddfoot{mystyle}{}{}{}
 \makeatletter

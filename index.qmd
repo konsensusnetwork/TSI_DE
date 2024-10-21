@@ -39,7 +39,7 @@ listing:
 ---
 
 ::: {.content-hidden when-format="pdf"}
-## About this book {.unnumbered}
+## About this book {.unnumbered .unlisted}
 
 Die zwei renommierten Anlageberater und Autoren des Bestsellers *The Great Reckoning* beleuchten angesichts des radikalen Wandels in der Menschheitsgeschichte sowohl Katastropheneinflüsse als auch das Potenzial für Wohlstand und Erneuerung. Das Souveräne Individuum zeigt Strategien auf, die notwendig sind, um sich finanziell auf die nächste Phase der westlichen Zivilisation einzustellen.
 
