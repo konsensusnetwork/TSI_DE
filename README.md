@@ -3,5 +3,5 @@
 ## Remarks
 
 - Section: Die Mathematik der Politik. Check if this is the updated version of the book.
-- Italics throughout the book
-- Add foreword
+- Italics throughout the book?
+- TODO: Create appendix with resources
