@@ -67,6 +67,7 @@ book:
   chapters:
     - index.qmd
     - kapitel/00.qmd
+    - kapitel/00b.qmd
     - kapitel/01.qmd
     - kapitel/02.qmd
     - kapitel/03.qmd
@@ -79,6 +80,7 @@ book:
     - kapitel/10.qmd
     - kapitel/11.qmd
     - kapitel/Z0.qmd
+    - kapitel/Z1.qmd
 
 format:
   html:
