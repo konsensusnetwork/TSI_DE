@@ -1,4 +1,4 @@
-# Vorwort durch Max Hillebrand {.unnumbered}
+# Vorwort von Max Hillebrand {.unnumbered}
 
 In der großen Bilanz der menschlichen Literatur gibt es nur wenige Bücher, die die Zukunft akkurat voraussagen und uns den Weg in ihrem hellen Licht der Weitsicht zeigen. „Das Souveräne Individuum" von James Dale Davidson und William Rees-Mogg ist ein solches Meisterwerk. Ein visionäres Buch, das nicht nur das Eintreten des digitalen Zeitalters vorausgesagt, sondern auch den intellektuellen Grundstein für die vollkommene Befreiung des Individuums vor dem veralternden Nationalstaat gelegt hat. Da wir nun 25 Jahre nach dem Anfang der vorhergesagten neuen Ära stehen, ist es lohnenswert, dieses wegweisende Werk erneut zu betrachten und die vielfältigen Weisen zu untersuchen, in denen seine Ideen verwirklicht wurden, insbesondere anhand der verändernden Kraft von Cypherpunk-Technologien.
 

@@ -66,8 +66,8 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
-    - kapitel/00.qmd
     - kapitel/00b.qmd
+    - kapitel/00.qmd
     - kapitel/01.qmd
     - kapitel/02.qmd
     - kapitel/03.qmd
