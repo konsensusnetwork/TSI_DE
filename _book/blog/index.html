@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Buy – Das souveräne Individuum</title>
+<title>articles – Das souveräne Individuum</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//figures/freestarfish.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="..//figures/freestarfish.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -66,14 +68,70 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Suchen"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<meta property="og:title" content="Buy – Das souveräne Individuum">
-<meta property="og:description" content="">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="articles – Das souveräne Individuum">
 <meta property="og:image" content="cover.png">
 <meta property="og:site_name" content="Das souveräne Individuum">
-<meta name="twitter:title" content="Buy – Das souveräne Individuum">
-<meta name="twitter:description" content="">
+<meta name="twitter:title" content="articles – Das souveräne Individuum">
 <meta name="twitter:image" content="cover.png">
 <meta name="twitter:site" content="@konsensusn">
 <meta name="twitter:card" content="summary_large_image">
@@ -86,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Das souveräne Individuum</span>
     </a>
   </div>
@@ -96,12 +154,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> <i class="bi bi-book" role="img" aria-label="Book">
+    <a class="nav-link" href="../index.html"> <i class="bi bi-book" role="img" aria-label="Book">
 </i> 
 <span class="menu-text">Read online</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./buy.html" aria-current="page"> <i class="bi bi-shop" role="img" aria-label="Shop">
+    <a class="nav-link" href="../buy.html"> <i class="bi bi-shop" role="img" aria-label="Shop">
 </i> 
 <span class="menu-text">Buy the book!</span></a>
   </li>  
@@ -116,7 +174,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#blog-posts" id="toc-blog-posts" class="nav-link active" data-scroll-target="#blog-posts">Blog posts</a></li>
+  </ul>
+</nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -127,8 +191,11 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Buy</h1>
-</div>
+<h1 class="title">articles</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">true</div>
+  </div>
+  </div>
 
 
 
@@ -144,221 +211,95 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Get the physical book now.</p>
-<div class="buy-button">
-<div id="product-component-1727304923644">
+<section id="blog-posts" class="level1">
+<h1>Blog posts</h1>
 
+
+
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1733353200000" data-listing-file-modified-sort="1733401416266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="453">
+<div class="thumbnail">
+<p><a href="../blog/post-1.html" class="no-external"></a></p><a href="../blog/post-1.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../blog/post-1.html" class="no-external"></a></p>
 </div>
-<script type="text/javascript">
-/*<![CDATA[*/
-(function () {
-  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-  if (window.ShopifyBuy) {
-    if (window.ShopifyBuy.UI) {
-      ShopifyBuyInit();
-    } else {
-      loadScript();
-    }
-  } else {
-    loadScript();
-  }
-  function loadScript() {
-    var script = document.createElement('script');
-    script.async = true;
-    script.src = scriptURL;
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-    script.onload = ShopifyBuyInit;
-  }
-  function ShopifyBuyInit() {
-    const discountCode = "SVRN";
-    var client = ShopifyBuy.buildClient({
-      domain: 'konsensus-network.myshopify.com',
-      storefrontAccessToken: '34b6f153cba00ad78ed6697a27d3f6e3',
-    });
-    ShopifyBuy.UI.onReady(client).then(function (ui) {
-      ui.createComponent('product', {
-        id: '9808280813917',
-        node: document.getElementById('product-component-1727304923644'),
-        moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
-        options: {
-  "product": {
-    "styles": {
-      "product": {
-        "@media (min-width: 601px)": {
-          "max-width": "calc(25% - 20px)",
-          "margin-left": "20px",
-          "margin-bottom": "50px"
-        }
-      },
-      "title": {
-        "font-family": "Open Sans, sans-serif",
-        "font-weight": "normal",
-        "color": "#f4b324"
-      },
-      "button": {
-        "font-family": "Open Sans, sans-serif",
-        ":hover": {
-          "background-color": "#dca120"
-        },
-        "background-color": "#f4b324",
-        ":focus": {
-          "background-color": "#dca120"
-        },
-        "border-radius": "15px",
-        "padding-left": "50px",
-        "padding-right": "50px"
-      },
-      "price": {
-        "font-family": "Open Sans, sans-serif",
-        "color": "#dc9b0b"
-      },
-      "compareAt": {
-        "font-family": "Open Sans, sans-serif",
-        "color": "#dc9b0b"
-      },
-      "unitPrice": {
-        "font-family": "Open Sans, sans-serif",
-        "color": "#dc9b0b"
-      }
-    },
-    "text": {
-      "button": "Add to cart"
-    },
-    "googleFonts": [
-      "Open Sans"
-    ]
-  },
-  "productSet": {
-    "styles": {
-      "products": {
-        "@media (min-width: 601px)": {
-          "margin-left": "-20px"
-        }
-      }
-    }
-  },
-  "modalProduct": {
-    "contents": {
-      "img": false,
-      "imgWithCarousel": true,
-      "button": false,
-      "buttonWithQuantity": true
-    },
-    "styles": {
-      "product": {
-        "@media (min-width: 601px)": {
-          "max-width": "100%",
-          "margin-left": "0px",
-          "margin-bottom": "0px"
-        }
-      },
-      "button": {
-        "font-family": "Open Sans, sans-serif",
-        ":hover": {
-          "background-color": "#dca120"
-        },
-        "background-color": "#f4b324",
-        ":focus": {
-          "background-color": "#dca120"
-        },
-        "border-radius": "15px",
-        "padding-left": "50px",
-        "padding-right": "50px"
-      },
-      "title": {
-        "font-family": "Helvetica Neue, sans-serif",
-        "font-weight": "bold",
-        "font-size": "26px",
-        "color": "#4c4c4c"
-      },
-      "price": {
-        "font-family": "Helvetica Neue, sans-serif",
-        "font-weight": "normal",
-        "font-size": "18px",
-        "color": "#4c4c4c"
-      },
-      "compareAt": {
-        "font-family": "Helvetica Neue, sans-serif",
-        "font-weight": "normal",
-        "font-size": "15.299999999999999px",
-        "color": "#4c4c4c"
-      },
-      "unitPrice": {
-        "font-family": "Helvetica Neue, sans-serif",
-        "font-weight": "normal",
-        "font-size": "15.299999999999999px",
-        "color": "#4c4c4c"
-      }
-    },
-    "googleFonts": [
-      "Open Sans"
-    ],
-    "text": {
-      "button": "Add to cart"
-    }
-  },
-  "option": {},
-  "cart": {
-    "styles": {
-      "button": {
-        "font-family": "Open Sans, sans-serif",
-        ":hover": {
-          "background-color": "#dca120"
-        },
-        "background-color": "#f4b324",
-        ":focus": {
-          "background-color": "#dca120"
-        },
-        "border-radius": "15px"
-      }
-    },
-    "text": {
-      "total": "Subtotal",
-      "button": "Checkout"
-    },
-    "googleFonts": [
-      "Open Sans"
-    ],
-    events: {
-        afterInit: (cart) => {
-            cart.onCheckout = () => {
-                const checkoutUrl =
-                    cart.model.webUrl + `&discount=${discountCode}`;
-                // we dynamically change the checkout function.
-                cart.checkout.open(checkoutUrl);
-            };
-        },
-    },
-  },
-  "toggle": {
-    "styles": {
-      "toggle": {
-        "font-family": "Open Sans, sans-serif",
-        "background-color": "#f4b324",
-        ":hover": {
-          "background-color": "#dca120"
-        },
-        ":focus": {
-          "background-color": "#dca120"
-        }
-      }
-    },
-    "googleFonts": [
-      "Open Sans"
-    ]
-  }
-},
-      });
-    });
-  }
-})();
-/*]]>*/
-</script>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/post-1.html" class="no-external">Der Wandel von der Industrie- zur Informationsgesellschaft: Ein Einblick in die Transformation</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/post-1.html" class="no-external"></a>
 </div>
-
-
-
-</main> <!-- /main -->
+<div class="listing-description">
+<a href="../blog/post-1.html" class="no-external">Die Welt steht an der Schwelle einer der bedeutendsten Transformationen der Menschheitsgeschichte - dem Übergang von der Industrie- zur Informationsgesellschaft. Diese…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/post-1.html" class="no-external">
+<div class="listing-date">
+05.12.2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1733353200000" data-listing-file-modified-sort="1733401401938" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="407">
+<div class="thumbnail">
+<p><a href="../blog/post-2.html" class="no-external"></a></p><a href="../blog/post-2.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../blog/post-2.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/post-2.html" class="no-external">Megapolitik und Staatsführung: Die Gestaltung der Zukunft im Informationszeitalter</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/post-2.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../blog/post-2.html" class="no-external">In einer Ära beispielloser technologischer Fortschritte und gesellschaftlicher Transformation ist das Verständnis des Konzepts der Megapolitik wichtiger denn je. Diese…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/post-2.html" class="no-external">
+<div class="listing-date">
+05.12.2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1733353200000" data-listing-file-modified-sort="1733401410714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="433">
+<div class="thumbnail">
+<p><a href="../blog/post-3.html" class="no-external"></a></p><a href="../blog/post-3.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../blog/post-3.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/post-3.html" class="no-external">Selbstermächtigung: Der Aufstieg des Souveränen Individuums im Informationszeitalter</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/post-3.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../blog/post-3.html" class="no-external">Das Informationszeitalter läutet eine so tiefgreifende Transformation ein, dass sie unsere Art zu leben, zu arbeiten und mit traditionellen Institutionen zu interagieren…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/post-3.html" class="no-external">
+<div class="listing-date">
+05.12.2024
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Keine Treffer
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -792,22 +733,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="../index.html">
 <p>License</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./publisher.html">
+    <a class="nav-link" href="../publisher.html">
 <p>About the publisher</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./buy.html">
+    <a class="nav-link" href="../buy.html">
 <p>Buy the book!</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./blog">
+    <a class="nav-link" href="../blog">
 <p>Blog</p>
 </a>
   </li>  

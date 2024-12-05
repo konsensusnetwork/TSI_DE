@@ -1,0 +1,7 @@
+---
+title: "articles"
+listing: default
+categories: true
+---
+
+# Blog posts

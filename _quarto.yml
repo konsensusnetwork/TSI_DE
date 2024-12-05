@@ -48,6 +48,8 @@ book:
         href: publisher.qmd
       - text: "Buy the book!"
         href: buy.qmd
+      - text: "Blog"
+        href: blog
     right:
       - icon: twitter
         href: https://twitter.com/konsensusn

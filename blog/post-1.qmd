@@ -1,4 +1,7 @@
-# Der Wandel von der Industrie- zur Informationsgesellschaft: Ein Einblick in die Transformation
+---
+title: "Der Wandel von der Industrie- zur Informationsgesellschaft: Ein Einblick in die Transformation"
+date: 2024-12-05
+---
 
 Die Welt steht an der Schwelle einer der bedeutendsten Transformationen der Menschheitsgeschichte - dem Übergang von der Industrie- zur Informationsgesellschaft. Diese Veränderung verspricht weitreichender zu sein als jede bisherige wirtschaftliche Revolution und vollzieht sich in einem beispiellos schnellen Tempo innerhalb einer einzigen Generation.
 
