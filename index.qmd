@@ -8,12 +8,14 @@ about:
       text: "Buch"
       aria-label: "Buch"
     - icon: shop
-      href: https://bitcoinbook.shop
+      href: https://bitcoinbook.shop/products/das-souverane-individuum
       text: "Presale" 
+      target: _blank
       aria-label: "Online bookstore"
     - icon: amazon
-      href: https://amazon.com
+      href: https://amzn.eu/d/cgoPG4F
       text: "Amazon"
+      target: _blank
       aria-label: "Amazon"              
 navbar: true
 sidebar: false

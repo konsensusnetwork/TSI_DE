@@ -1,0 +1,5 @@
+# Buy {.unnumbered .content-visible when-format="html"}
+
+Get the physical book now.
+
+{{< include buy-button.qmd >}}
