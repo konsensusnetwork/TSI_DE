@@ -22,6 +22,7 @@
     script.onload = ShopifyBuyInit;
   }
   function ShopifyBuyInit() {
+    const discountCode = "SVRN";
     var client = ShopifyBuy.buildClient({
       domain: 'konsensus-network.myshopify.com',
       storefrontAccessToken: '34b6f153cba00ad78ed6697a27d3f6e3',
@@ -169,7 +170,17 @@
     },
     "googleFonts": [
       "Open Sans"
-    ]
+    ],
+    events: {
+        afterInit: (cart) => {
+            cart.onCheckout = () => {
+                const checkoutUrl =
+                    cart.model.webUrl + `&discount=${discountCode}`;
+                // we dynamically change the checkout function.
+                cart.checkout.open(checkoutUrl);
+            };
+        },
+    },
   },
   "toggle": {
     "styles": {

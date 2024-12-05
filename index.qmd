@@ -5,11 +5,11 @@ about:
   links:
     - icon: book
       href: /kapitel/01.html
-      text: "Buch"
+      text: "Lesen"
       aria-label: "Buch"
     - icon: shop
-      href: https://bitcoinbook.shop/products/das-souverane-individuum
-      text: "Presale" 
+      href: https://bitcoinbook.shop/products/das-souverane-individuum?ref=SVRN
+      text: "Shop" 
       target: _blank
       aria-label: "Online bookstore"
     - icon: amazon
