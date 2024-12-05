@@ -13,7 +13,7 @@ book:
   date: "9/10/2024"
   image: cover.png
   image-alt: "Das souveräne Individuum"
-  isbn: 978-3-16-123450-0
+  isbn: 978-9916-749-26-5
   license: CC-BY-4.0
   language: de
   original-title: "The Sovereign Individual"
@@ -66,6 +66,7 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
+    - kapitel/00b.qmd
     - kapitel/00.qmd
     - kapitel/01.qmd
     - kapitel/02.qmd
@@ -79,6 +80,7 @@ book:
     - kapitel/10.qmd
     - kapitel/11.qmd
     - kapitel/Z0.qmd
+    - kapitel/Z1.qmd
 
 format:
   html:

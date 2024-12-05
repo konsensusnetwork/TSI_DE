@@ -1,4 +1,4 @@
-# Vorwort durch Max Hillebrand {.unnumbered}
+# Vorwort von Max Hillebrand {.unnumbered}
 
 In der großen Bilanz der menschlichen Literatur gibt es nur wenige Bücher, die die Zukunft akkurat voraussagen und uns den Weg in ihrem hellen Licht der Weitsicht zeigen. „Das Souveräne Individuum" von James Dale Davidson und William Rees-Mogg ist ein solches Meisterwerk. Ein visionäres Buch, das nicht nur das Eintreten des digitalen Zeitalters vorausgesagt, sondern auch den intellektuellen Grundstein für die vollkommene Befreiung des Individuums vor dem veralternden Nationalstaat gelegt hat. Da wir nun 25 Jahre nach dem Anfang der vorhergesagten neuen Ära stehen, ist es lohnenswert, dieses wegweisende Werk erneut zu betrachten und die vielfältigen Weisen zu untersuchen, in denen seine Ideen verwirklicht wurden, insbesondere anhand der verändernden Kraft von Cypherpunk-Technologien.
 
@@ -23,3 +23,7 @@ Peer-to-Peer-Systeme wie BitTorrent ermöglichen Benutzern den direkten Austausc
 Schließlich repräsentiert der Aufstieg von Nostr, einem neuen Protokoll für den standardisierten Austausch von signierten Daten, das neueste Gebiet des fortwährenden Strebens nach digitaler Souveränität. Nostr hat es geschafft, mit Alltagsapplikationen ein Web-of-Trust von kryptographischen Schlüsseln aufzubauen, welches eine fundamentale Basis für die souveräne Zukunft ist.
 
 Zusammengefasst ist „Das Souveräne Individuum" ein bahnbrechendes Werk, das dem Test der Zeit standhalten konnte und eine Landkarte für das digitale Zeitalter bietet, die heute genauso relevant ist wie bei ihrer ersten Veröffentlichung im Jahr 1999. Ihre Autoren, James Dale Davidson und William Rees-Mogg, waren Visionäre, die die verändernde Kraft der digitalen Technologie und ihre Auswirkungen auf die Zukunft des Einzelnen in der Gesellschaft vorhergesagt haben. So wie wir weiterhin den unerbittlichen Marsch der Cypherpunk-Technologien verfolgen, erinnern wir uns an die dauerhafte Kraft der in diesen Seiten enthaltenen Ideen. In einer Welt, die zunehmend von dem Kampf zwischen individueller Freiheit und staatlicher Kontrolle geprägt ist, bleibt „Das Souveräne Individuum" ein Ruf zu Taten, ein Zeugnis der unerbittlichen Geisteskraft der menschlichen Erfindungskraft und ein Leuchtturm der Hoffnung für die Zukunft der Menschheit.
+
+\vspace{2em}
+
+--- **Max Hillebrand**
