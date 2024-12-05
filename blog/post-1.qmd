@@ -1,6 +1,15 @@
 ---
-title: "Der Wandel von der Industrie- zur Informationsgesellschaft: Ein Einblick in die Transformation"
+title: "Der Wandel von der Industrie- zur Informationsgesellschaft"
+subtitle: "Ein Einblick in die digitale Transformation unserer Zeit"
+description: "Eine umfassende Analyse des gesellschaftlichen Wandels von der Industrie- zur Informationsgesellschaft, mit Fokus auf wirtschaftliche und soziale Auswirkungen."
 date: 2024-12-05
+author: "Konsensus Network"
+categories: [Digitalisierung, Gesellschaft, Wirtschaft]
+image: "figures/industrie-information.jpg"  # Bitte entsprechendes Bild hinzufügen
+image-alt: "Symbolische Darstellung des Übergangs von Industrieanlagen zu digitalen Netzwerken"
+lang: de
+keywords: [Informationsgesellschaft, Digitale Transformation, Industriegesellschaft, Wirtschaftswandel, Zukunft der Arbeit]
+draft: false
 ---
 
 Die Welt steht an der Schwelle einer der bedeutendsten Transformationen der Menschheitsgeschichte - dem Übergang von der Industrie- zur Informationsgesellschaft. Diese Veränderung verspricht weitreichender zu sein als jede bisherige wirtschaftliche Revolution und vollzieht sich in einem beispiellos schnellen Tempo innerhalb einer einzigen Generation.
@@ -79,4 +88,4 @@ Bei der Bewältigung dieses Übergangs ist es entscheidend zu verstehen, dass wi
 
 *Möchten Sie mehr über diesen transformativen Wandel erfahren? Entdecken Sie unser umfassendes Buch über den Übergang von der Industrie- zur Informationsgesellschaft, das tiefere Einblicke in diese revolutionären Veränderungen bietet.*
 
-#Informationszeitalter #DigitaleTransformation #ZukunftDerArbeit #Technologietrends #GesellschaftlicherWandel 
+#Informationszeitalter #DigitaleTransformation #ZukunftDerArbeit #Technologietrends #GesellschaftlicherWandel

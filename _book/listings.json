@@ -13,8 +13,8 @@
     "listing": "/blog/index.html",
     "items": [
       "/blog/post-1.html",
-      "/blog/post-2.html",
-      "/blog/post-3.html"
+      "/blog/post-3.html",
+      "/blog/post-2.html"
     ]
   }
 ]

@@ -1,6 +1,15 @@
 ---
-title: "Megapolitik und Staatsführung: Die Gestaltung der Zukunft im Informationszeitalter"
-date: 2024-12-05
+title: "Megapolitik und Staatsführung im digitalen Zeitalter"
+subtitle: "Neue Paradigmen der Governance im 21. Jahrhundert"
+description: "Eine detaillierte Untersuchung der Veränderungen in politischen Strukturen und Staatsführung durch die digitale Revolution."
+date: 2024-12-01
+author: "Konsensus Network"
+categories: [Politik, Digitalisierung, Gesellschaft]
+image: "figures/megapolitik.jpg"  # Bitte entsprechendes Bild hinzufügen
+image-alt: "Visualisierung moderner politischer Strukturen im digitalen Zeitalter"
+lang: de
+keywords: [Megapolitik, Staatsführung, Digitale Governance, Politische Transformation, Zukunft der Politik]
+draft: false
 ---
 
 In einer Ära beispielloser technologischer Fortschritte und gesellschaftlicher Transformation ist das Verständnis des Konzepts der Megapolitik wichtiger denn je. Diese Analyse untersucht, wie grundlegende Kräfte die Strukturen der Staatsführung neu gestalten und was dies für unsere gemeinsame Zukunft bedeutet.

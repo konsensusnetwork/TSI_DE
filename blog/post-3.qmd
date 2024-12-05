@@ -1,6 +1,15 @@
 ---
-title: "Selbstermächtigung: Der Aufstieg des Souveränen Individuums im Informationszeitalter"
+title: "Selbstermächtigung"
+subtitle: "Selbstermächtigung im digitalen Zeitalter"
+description: "Eine Analyse der neuen Möglichkeiten zur persönlichen Autonomie und Selbstbestimmung im Informationszeitalter."
 date: 2024-12-05
+author: "Konsensus Network"
+categories: [Gesellschaft, Digitalisierung, Persönlichkeitsentwicklung]
+image: "figures/sovereign-individual.jpg"  # Bitte entsprechendes Bild hinzufügen
+image-alt: "Symbol für digitale Selbstbestimmung und persönliche Freiheit"
+lang: de
+keywords: [Digitale Autonomie, Selbstbestimmung, Persönliche Entwicklung, Digitale Transformation, Zukunft]
+draft: false
 ---
 
 Das Informationszeitalter läutet eine so tiefgreifende Transformation ein, dass sie unsere Art zu leben, zu arbeiten und mit traditionellen Institutionen zu interagieren revolutionieren wird. Im Zentrum dieser Veränderung steht ein neuer Archetyp: das Souveräne Individuum. Dieses Konzept repräsentiert einen fundamentalen Wandel darin, wie Menschen im digitalen Zeitalter ein beispielloses Maß an persönlicher Autonomie und Wohlstand erreichen können.

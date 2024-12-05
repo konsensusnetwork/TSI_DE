@@ -16,10 +16,11 @@ book:
   isbn: 978-9916-749-26-5
   license: CC-BY-4.0
   language: de
+  site-url: https://souveräneindividuum.de
   original-title: "The Sovereign Individual"
   publisher: Konsensus Network
   original-publisher: Simon & Schuster
-  favicon: /figures/freestarfish.png
+  favicon: cover.png
   # repo-url: https://github.com/konsensusnetwork/TSI_DE
   # repo-actions: [edit, source]
   search:

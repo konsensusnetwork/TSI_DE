@@ -1,7 +1,13 @@
 ---
-title: "articles"
-listing: default
-categories: true
+title: "Blog"
+description: "Expertenwissen und Analysen zur digitalen Transformation von Gesellschaft, Politik und Wirtschaft"
+listing:
+  contents:
+    - "../blog/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+page-layout: full
+lang: de
 ---
-
-# Blog posts
